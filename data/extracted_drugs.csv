@@ -1,0 +1,1437 @@
+drug_name,drug_class,indications,side_effects,side_effect_severity,approval_status
+Seroxetine50,Antidepressant,Allergy relief,"Fatigue, Nausea",Mild,Pending
+Mecoparin93,Vaccine,Allergy relief,Nausea,Mild,Approved
+Daxozole89,Antipsychotic,Allergy relief,"Diarrhea, Blurred vision, Dizziness",Moderate,Pending
+Viracillin84,Antifungal,Inflammation reduction,"Fatigue, Dry mouth",Mild,Rejected
+Amoxstatin62,Antidepressant,Psychosis control,"Insomnia, Dry mouth, Fatigue",Moderate,Pending
+Loxocillin72,Antifungal,Viral infections,"Rash, Dizziness",Moderate,Rejected
+Fenoxetine43,Anti-inflammatory,Psychosis control,Blurred vision,Mild,Pending
+Fenomab17,Analgesic,Bacterial infections,Nausea,Severe,Approved
+Cefparin42,Analgesic,Prevent infectious disease,Dry mouth,Moderate,Approved
+Rivaprofen81,Antibiotic,Bacterial infections,"Insomnia, Fatigue, Headache",Severe,Approved
+Fenocillin43,Antiviral,Allergy relief,"Dizziness, Fatigue",Severe,Rejected
+Amoxxetine60,Antihistamine,Allergy relief,Dry mouth,Moderate,Approved
+Zylomab54,Antiviral,Fungal infections,"Rash, Diarrhea, Insomnia",Moderate,Approved
+Amoxstatin52,Antibiotic,Depression treatment,"Constipation, Diarrhea, Blurred vision",Mild,Pending
+Virazole50,Antipyretic,Viral infections,"Headache, Dizziness, Constipation",Severe,Rejected
+Cefprofen42,Antipsychotic,Allergy relief,"Dizziness, Insomnia, Constipation",Severe,Approved
+Cefzole42,Antidepressant,Pain relief,Blurred vision,Severe,Rejected
+Fenomab41,Antibiotic,Fever reduction,"Headache, Diarrhea, Insomnia",Severe,Pending
+Mecoparin65,Antiviral,Bacterial infections,"Fatigue, Diarrhea",Mild,Pending
+Seroxetine86,Antibiotic,Inflammation reduction,"Rash, Fatigue",Severe,Pending
+Zylostatin70,Antipyretic,Depression treatment,"Diarrhea, Insomnia",Severe,Approved
+Amoxstatin45,Antipsychotic,Inflammation reduction,Diarrhea,Severe,Pending
+Cefmab58,Antipsychotic,Fungal infections,Headache,Mild,Rejected
+Amoxvir52,Antihistamine,Fungal infections,"Dry mouth, Insomnia",Mild,Rejected
+Zyloparin93,Antiviral,Bacterial infections,Fatigue,Severe,Pending
+Daxoprofen23,Antibiotic,Pain relief,"Fatigue, Nausea",Mild,Rejected
+Loxomab59,Antipsychotic,Bacterial infections,Dry mouth,Severe,Pending
+Serodipine76,Antipsychotic,Fungal infections,"Fatigue, Diarrhea",Severe,Approved
+Loxozepam62,Anti-inflammatory,Depression treatment,"Insomnia, Rash, Constipation",Moderate,Pending
+Rivaprofen67,Anti-inflammatory,Fever reduction,"Fatigue, Nausea, Dizziness",Severe,Rejected
+Viraparin11,Antipyretic,Bacterial infections,Insomnia,Mild,Rejected
+Fenoparin78,Antidepressant,Allergy relief,Fatigue,Mild,Approved
+Cefmab22,Anti-inflammatory,Depression treatment,"Rash, Dizziness, Diarrhea",Severe,Approved
+Fenocillin11,Antihistamine,Depression treatment,Headache,Severe,Approved
+Daxoparin20,Antipsychotic,Fever reduction,"Diarrhea, Blurred vision, Headache",Moderate,Approved
+Amoxzepam36,Vaccine,Inflammation reduction,"Headache, Dry mouth, Nausea",Moderate,Pending
+Mecodipine51,Antiviral,Allergy relief,Insomnia,Moderate,Rejected
+Daxomab60,Antiviral,Bacterial infections,Rash,Moderate,Rejected
+Viraparin98,Antipsychotic,Inflammation reduction,"Constipation, Diarrhea, Blurred vision",Mild,Pending
+Mecoprofen83,Antidepressant,Pain relief,"Blurred vision, Nausea",Mild,Rejected
+Mecozole78,Antipyretic,Prevent infectious disease,"Dizziness, Diarrhea",Moderate,Rejected
+Amoxvir15,Anti-inflammatory,Bacterial infections,"Nausea, Dry mouth, Diarrhea",Moderate,Approved
+Cefcillin81,Antiviral,Depression treatment,"Headache, Blurred vision",Mild,Rejected
+Amoxvir70,Antipsychotic,Viral infections,"Dizziness, Headache, Nausea",Severe,Pending
+Cefzepam73,Antihistamine,Depression treatment,Rash,Severe,Approved
+Mecoxetine49,Antihistamine,Depression treatment,Rash,Severe,Pending
+Amoxvir19,Antifungal,Viral infections,"Fatigue, Rash",Mild,Pending
+Zyloparin70,Anti-inflammatory,Depression treatment,Constipation,Moderate,Pending
+Seroprofen35,Antipyretic,Fever reduction,"Rash, Diarrhea",Mild,Rejected
+Daxozole11,Antibiotic,Fungal infections,"Rash, Headache, Nausea",Severe,Rejected
+Amoxstatin67,Anti-inflammatory,Viral infections,"Dizziness, Headache",Moderate,Pending
+Mecoxetine94,Antihistamine,Bacterial infections,"Headache, Nausea",Severe,Rejected
+Loxoparin76,Antipyretic,Fever reduction,"Rash, Insomnia, Fatigue",Mild,Rejected
+Virazole73,Analgesic,Fungal infections,"Nausea, Insomnia, Diarrhea",Mild,Pending
+Loxozole57,Antibiotic,Bacterial infections,Dry mouth,Severe,Approved
+Viraxetine66,Vaccine,Psychosis control,"Headache, Dry mouth, Dizziness",Moderate,Pending
+Daxomab70,Antidepressant,Inflammation reduction,"Fatigue, Diarrhea",Mild,Rejected
+Seroxetine12,Anti-inflammatory,Bacterial infections,"Insomnia, Nausea",Moderate,Rejected
+Fenocillin31,Analgesic,Depression treatment,Blurred vision,Moderate,Rejected
+Zylomab94,Antibiotic,Fungal infections,"Insomnia, Diarrhea",Mild,Pending
+Cefstatin97,Anti-inflammatory,Psychosis control,"Blurred vision, Rash",Mild,Approved
+Virazole36,Antipyretic,Viral infections,"Headache, Dry mouth, Constipation",Moderate,Approved
+Rivavir88,Antidepressant,Inflammation reduction,Dizziness,Mild,Pending
+Viraparin98,Antipyretic,Inflammation reduction,"Constipation, Fatigue",Severe,Pending
+Daxocillin23,Vaccine,Allergy relief,"Fatigue, Diarrhea, Rash",Mild,Pending
+Rivaprofen78,Antihistamine,Allergy relief,"Fatigue, Dizziness, Constipation",Severe,Approved
+Serovir30,Antipyretic,Bacterial infections,"Nausea, Rash, Blurred vision",Severe,Pending
+Serostatin20,Antihistamine,Bacterial infections,"Constipation, Fatigue, Diarrhea",Mild,Approved
+Seroprofen18,Antifungal,Fungal infections,"Rash, Insomnia, Blurred vision",Mild,Pending
+Viradipine57,Analgesic,Fungal infections,"Dizziness, Blurred vision, Rash",Moderate,Approved
+Cefvir57,Antiviral,Fungal infections,"Rash, Nausea, Fatigue",Moderate,Rejected
+Seroprofen98,Antiviral,Inflammation reduction,"Blurred vision, Dry mouth",Moderate,Rejected
+Rivazole34,Antibiotic,Fungal infections,"Dry mouth, Dizziness, Fatigue",Mild,Pending
+Fenoprofen71,Antipsychotic,Psychosis control,"Fatigue, Diarrhea",Moderate,Pending
+Mecodipine29,Antidepressant,Inflammation reduction,"Blurred vision, Rash",Severe,Approved
+Serozepam87,Antibiotic,Prevent infectious disease,"Blurred vision, Insomnia",Moderate,Approved
+Daxovir74,Antipyretic,Bacterial infections,Dizziness,Mild,Rejected
+Cefcillin80,Vaccine,Bacterial infections,Fatigue,Mild,Rejected
+Zylovir64,Antiviral,Bacterial infections,"Dry mouth, Fatigue, Blurred vision",Mild,Rejected
+Seroxetine38,Analgesic,Prevent infectious disease,"Nausea, Dry mouth",Mild,Rejected
+Amoxcillin71,Antifungal,Psychosis control,"Insomnia, Blurred vision, Rash",Severe,Pending
+Loxodipine99,Antidepressant,Viral infections,"Dizziness, Dry mouth, Nausea",Mild,Rejected
+Loxomab63,Antifungal,Inflammation reduction,"Headache, Rash, Nausea",Mild,Approved
+Daxovir46,Antipsychotic,Allergy relief,"Dry mouth, Constipation, Diarrhea",Moderate,Rejected
+Mecomab45,Analgesic,Allergy relief,"Blurred vision, Insomnia, Constipation",Mild,Rejected
+Daxodipine13,Antihistamine,Viral infections,"Nausea, Dry mouth, Rash",Mild,Rejected
+Amoxdipine25,Antifungal,Prevent infectious disease,"Dry mouth, Dizziness",Moderate,Rejected
+Serovir88,Antiviral,Fungal infections,"Dry mouth, Rash",Moderate,Approved
+Rivacillin97,Antifungal,Fungal infections,"Rash, Nausea",Severe,Rejected
+Viraxetine77,Vaccine,Viral infections,"Insomnia, Rash, Dizziness",Moderate,Pending
+Fenozole89,Antiviral,Pain relief,Blurred vision,Moderate,Rejected
+Rivazole49,Vaccine,Depression treatment,Constipation,Moderate,Approved
+Daxostatin85,Anti-inflammatory,Bacterial infections,"Dry mouth, Blurred vision, Headache",Mild,Approved
+Daxoxetine38,Analgesic,Pain relief,"Blurred vision, Constipation, Dry mouth",Severe,Approved
+Amoxdipine23,Antifungal,Pain relief,"Dry mouth, Diarrhea, Constipation",Mild,Pending
+Zyloparin24,Antiviral,Depression treatment,"Dizziness, Insomnia",Severe,Pending
+Seroparin79,Antipsychotic,Fever reduction,"Dizziness, Insomnia, Headache",Mild,Rejected
+Viraxetine60,Antipsychotic,Bacterial infections,"Blurred vision, Dry mouth, Rash",Severe,Rejected
+Daxostatin86,Antihistamine,Allergy relief,"Dizziness, Diarrhea, Insomnia",Mild,Rejected
+Mecodipine72,Vaccine,Depression treatment,Rash,Moderate,Approved
+Cefmab95,Vaccine,Pain relief,Dry mouth,Mild,Approved
+Rivacillin96,Antihistamine,Pain relief,"Nausea, Dry mouth",Severe,Rejected
+Rivadipine34,Antibiotic,Depression treatment,Headache,Severe,Pending
+Zylomab16,Antipyretic,Psychosis control,"Rash, Blurred vision, Dry mouth",Moderate,Pending
+Loxoparin23,Antibiotic,Allergy relief,"Dizziness, Blurred vision, Dry mouth",Moderate,Pending
+Fenodipine42,Antibiotic,Prevent infectious disease,"Dizziness, Diarrhea",Moderate,Pending
+Rivastatin59,Antidepressant,Fungal infections,Fatigue,Mild,Approved
+Fenocillin27,Vaccine,Fever reduction,"Nausea, Blurred vision",Moderate,Rejected
+Cefcillin64,Antifungal,Fever reduction,"Nausea, Diarrhea",Mild,Rejected
+Viravir35,Antidepressant,Fungal infections,"Nausea, Rash",Moderate,Rejected
+Daxostatin64,Vaccine,Viral infections,"Rash, Dry mouth",Mild,Rejected
+Serodipine62,Antipsychotic,Viral infections,"Nausea, Dry mouth",Moderate,Rejected
+Seroxetine96,Antipyretic,Inflammation reduction,"Blurred vision, Insomnia",Mild,Rejected
+Daxoparin84,Anti-inflammatory,Pain relief,"Headache, Constipation",Moderate,Pending
+Zylozepam34,Analgesic,Fungal infections,"Constipation, Blurred vision",Mild,Approved
+Amoxdipine13,Antifungal,Allergy relief,"Dizziness, Insomnia",Moderate,Approved
+Rivamab32,Antifungal,Depression treatment,"Diarrhea, Insomnia, Dizziness",Mild,Pending
+Serocillin74,Antidepressant,Allergy relief,"Insomnia, Nausea, Dizziness",Severe,Rejected
+Serozole62,Antifungal,Depression treatment,"Constipation, Blurred vision, Fatigue",Severe,Pending
+Cefcillin14,Antibiotic,Viral infections,"Nausea, Fatigue, Rash",Moderate,Rejected
+Fenozepam50,Antidepressant,Allergy relief,Blurred vision,Severe,Pending
+Cefzepam45,Vaccine,Allergy relief,Dry mouth,Moderate,Rejected
+Viraxetine19,Antipsychotic,Bacterial infections,"Nausea, Blurred vision, Diarrhea",Mild,Pending
+Rivavir63,Anti-inflammatory,Pain relief,"Diarrhea, Headache, Nausea",Mild,Approved
+Mecodipine19,Antibiotic,Viral infections,"Diarrhea, Blurred vision, Nausea",Moderate,Approved
+Serozole59,Antipsychotic,Fungal infections,"Rash, Nausea, Dizziness",Mild,Pending
+Serocillin27,Vaccine,Pain relief,"Dry mouth, Dizziness, Constipation",Mild,Approved
+Loxovir11,Antipsychotic,Pain relief,"Dizziness, Fatigue",Severe,Approved
+Viravir99,Analgesic,Inflammation reduction,"Rash, Fatigue",Mild,Approved
+Fenozepam91,Antipyretic,Depression treatment,"Diarrhea, Insomnia, Headache",Mild,Rejected
+Amoxzepam33,Vaccine,Bacterial infections,"Constipation, Dizziness, Dry mouth",Moderate,Pending
+Amoxvir68,Anti-inflammatory,Prevent infectious disease,Fatigue,Moderate,Pending
+Amoxparin13,Vaccine,Inflammation reduction,"Headache, Diarrhea",Mild,Approved
+Daxovir24,Antifungal,Psychosis control,Dry mouth,Mild,Approved
+Rivaparin10,Antihistamine,Viral infections,"Nausea, Fatigue",Severe,Rejected
+Mecostatin40,Antidepressant,Allergy relief,Headache,Mild,Pending
+Cefdipine99,Antihistamine,Bacterial infections,Blurred vision,Mild,Approved
+Fenocillin39,Antibiotic,Viral infections,Rash,Moderate,Approved
+Daxoxetine11,Antipsychotic,Pain relief,"Rash, Constipation, Blurred vision",Mild,Rejected
+Fenostatin65,Anti-inflammatory,Allergy relief,Insomnia,Severe,Pending
+Rivaxetine79,Antibiotic,Bacterial infections,"Fatigue, Headache",Mild,Rejected
+Daxoxetine96,Analgesic,Inflammation reduction,Insomnia,Moderate,Approved
+Rivazepam81,Antibiotic,Fever reduction,"Dry mouth, Nausea",Severe,Pending
+Loxostatin46,Antipsychotic,Prevent infectious disease,Dizziness,Mild,Pending
+Daxocillin70,Analgesic,Pain relief,Fatigue,Severe,Rejected
+Daxozepam61,Antihistamine,Fungal infections,"Insomnia, Blurred vision",Severe,Rejected
+Rivaprofen24,Antifungal,Prevent infectious disease,Dizziness,Mild,Pending
+Mecozole28,Antidepressant,Bacterial infections,Constipation,Moderate,Rejected
+Daxoparin72,Antipyretic,Bacterial infections,Constipation,Moderate,Approved
+Virazepam82,Antibiotic,Psychosis control,Constipation,Moderate,Rejected
+Fenomab68,Antidepressant,Prevent infectious disease,Fatigue,Severe,Rejected
+Viraparin39,Vaccine,Pain relief,"Dry mouth, Insomnia, Fatigue",Mild,Approved
+Amoxvir93,Antiviral,Fungal infections,Dry mouth,Moderate,Approved
+Rivaparin56,Antidepressant,Psychosis control,Rash,Moderate,Rejected
+Rivaxetine29,Antifungal,Psychosis control,"Rash, Constipation",Moderate,Approved
+Daxoprofen42,Antipyretic,Fungal infections,"Headache, Dry mouth",Mild,Pending
+Rivaparin65,Antipyretic,Inflammation reduction,"Dry mouth, Constipation, Insomnia",Moderate,Pending
+Virastatin21,Antifungal,Pain relief,"Insomnia, Headache",Moderate,Rejected
+Cefcillin20,Antibiotic,Prevent infectious disease,"Diarrhea, Blurred vision, Dry mouth",Mild,Approved
+Cefparin47,Antihistamine,Fever reduction,"Fatigue, Rash, Dry mouth",Mild,Pending
+Loxovir13,Antiviral,Prevent infectious disease,Nausea,Moderate,Rejected
+Seroxetine80,Anti-inflammatory,Viral infections,"Dry mouth, Diarrhea, Rash",Severe,Approved
+Daxoparin14,Vaccine,Inflammation reduction,"Insomnia, Dizziness",Mild,Approved
+Rivacillin95,Antipsychotic,Fungal infections,Headache,Mild,Approved
+Loxocillin65,Vaccine,Pain relief,Dizziness,Mild,Approved
+Seroxetine61,Antiviral,Fungal infections,"Headache, Blurred vision, Dry mouth",Moderate,Pending
+Amoxzepam72,Antifungal,Pain relief,"Blurred vision, Dry mouth",Moderate,Pending
+Daxomab89,Anti-inflammatory,Fungal infections,Diarrhea,Severe,Rejected
+Rivavir82,Antibiotic,Bacterial infections,"Fatigue, Rash, Diarrhea",Moderate,Approved
+Seromab43,Antidepressant,Pain relief,Blurred vision,Moderate,Approved
+Rivazepam28,Antihistamine,Fungal infections,Diarrhea,Severe,Pending
+Viracillin42,Antihistamine,Fungal infections,"Fatigue, Diarrhea",Moderate,Rejected
+Amoxzole12,Antiviral,Psychosis control,"Insomnia, Nausea, Dry mouth",Moderate,Pending
+Viravir93,Antihistamine,Inflammation reduction,"Dry mouth, Fatigue, Dizziness",Mild,Rejected
+Loxodipine25,Anti-inflammatory,Depression treatment,Rash,Mild,Rejected
+Mecoprofen66,Analgesic,Fever reduction,"Rash, Headache, Diarrhea",Severe,Rejected
+Mecodipine47,Antibiotic,Pain relief,"Dry mouth, Headache",Moderate,Pending
+Seroxetine76,Antipsychotic,Pain relief,Dry mouth,Severe,Pending
+Fenoxetine25,Antipyretic,Viral infections,Headache,Severe,Approved
+Mecozepam73,Anti-inflammatory,Pain relief,Headache,Mild,Rejected
+Amoxxetine51,Antidepressant,Bacterial infections,Constipation,Mild,Approved
+Amoxcillin68,Antidepressant,Bacterial infections,"Nausea, Blurred vision",Severe,Rejected
+Serozepam56,Antifungal,Inflammation reduction,"Nausea, Constipation, Headache",Moderate,Pending
+Mecozepam53,Antibiotic,Fungal infections,"Rash, Headache, Diarrhea",Mild,Pending
+Cefxetine39,Antipsychotic,Viral infections,"Constipation, Dry mouth, Dizziness",Severe,Pending
+Seroparin13,Antifungal,Fungal infections,Rash,Mild,Pending
+Cefprofen72,Antipsychotic,Psychosis control,"Blurred vision, Nausea",Moderate,Approved
+Serostatin81,Antiviral,Inflammation reduction,"Blurred vision, Dizziness, Nausea",Severe,Approved
+Amoxvir92,Analgesic,Prevent infectious disease,Blurred vision,Mild,Pending
+Rivaxetine25,Antipyretic,Psychosis control,"Fatigue, Diarrhea",Mild,Approved
+Cefcillin28,Antifungal,Viral infections,Dry mouth,Mild,Pending
+Amoxmab95,Anti-inflammatory,Fever reduction,"Rash, Nausea, Constipation",Mild,Rejected
+Zylovir65,Antidepressant,Prevent infectious disease,"Nausea, Blurred vision",Severe,Pending
+Cefzepam59,Vaccine,Viral infections,Fatigue,Mild,Pending
+Rivazole96,Antiviral,Fungal infections,Nausea,Mild,Pending
+Cefparin26,Antiviral,Bacterial infections,"Headache, Nausea, Rash",Moderate,Approved
+Daxozole19,Vaccine,Depression treatment,Nausea,Mild,Pending
+Mecoprofen82,Anti-inflammatory,Depression treatment,Constipation,Moderate,Approved
+Daxozole45,Antibiotic,Pain relief,"Diarrhea, Constipation, Blurred vision",Moderate,Rejected
+Rivazepam60,Antipsychotic,Depression treatment,"Diarrhea, Rash",Moderate,Rejected
+Rivaxetine80,Antipyretic,Depression treatment,"Diarrhea, Constipation",Moderate,Approved
+Mecostatin56,Antipyretic,Viral infections,Blurred vision,Mild,Pending
+Loxovir33,Antibiotic,Fever reduction,"Rash, Insomnia, Dizziness",Mild,Approved
+Daxoxetine25,Antipyretic,Psychosis control,Fatigue,Mild,Approved
+Zylozepam11,Antifungal,Viral infections,"Diarrhea, Dizziness, Constipation",Moderate,Rejected
+Loxovir74,Vaccine,Bacterial infections,"Nausea, Rash, Constipation",Severe,Approved
+Daxoprofen78,Analgesic,Allergy relief,Nausea,Mild,Pending
+Mecocillin74,Analgesic,Viral infections,"Dry mouth, Dizziness",Moderate,Approved
+Rivavir90,Antibiotic,Viral infections,"Rash, Nausea",Mild,Rejected
+Viraparin59,Antifungal,Viral infections,"Insomnia, Headache, Diarrhea",Severe,Rejected
+Seroparin65,Antiviral,Viral infections,Diarrhea,Moderate,Rejected
+Amoxparin34,Antihistamine,Depression treatment,"Constipation, Dizziness",Severe,Pending
+Amoxprofen11,Antidepressant,Inflammation reduction,Blurred vision,Moderate,Pending
+Loxomab75,Antipsychotic,Inflammation reduction,"Fatigue, Blurred vision, Rash",Moderate,Pending
+Amoxxetine90,Antipyretic,Fungal infections,Diarrhea,Mild,Approved
+Cefparin36,Antiviral,Bacterial infections,Dizziness,Moderate,Pending
+Serocillin78,Analgesic,Inflammation reduction,"Diarrhea, Blurred vision",Severe,Rejected
+Fenocillin55,Antidepressant,Prevent infectious disease,"Dry mouth, Insomnia",Mild,Pending
+Fenodipine73,Antiviral,Viral infections,"Rash, Headache, Blurred vision",Moderate,Pending
+Mecocillin92,Antifungal,Fungal infections,"Dry mouth, Rash",Mild,Approved
+Rivavir37,Anti-inflammatory,Pain relief,Rash,Moderate,Approved
+Zylozepam43,Antifungal,Psychosis control,"Insomnia, Dizziness, Rash",Severe,Pending
+Serostatin53,Antipsychotic,Fungal infections,"Dry mouth, Insomnia",Severe,Approved
+Loxodipine47,Vaccine,Psychosis control,Rash,Severe,Rejected
+Daxovir41,Antipsychotic,Inflammation reduction,"Nausea, Insomnia",Severe,Approved
+Loxodipine83,Analgesic,Inflammation reduction,Dry mouth,Moderate,Approved
+Zylocillin21,Vaccine,Viral infections,"Dizziness, Dry mouth, Nausea",Mild,Approved
+Serocillin30,Anti-inflammatory,Allergy relief,"Headache, Constipation, Rash",Mild,Approved
+Viramab94,Antidepressant,Pain relief,"Headache, Blurred vision",Moderate,Rejected
+Zylovir49,Antidepressant,Bacterial infections,"Blurred vision, Dizziness, Nausea",Mild,Rejected
+Serodipine22,Vaccine,Prevent infectious disease,Diarrhea,Moderate,Approved
+Mecodipine45,Antipyretic,Bacterial infections,Headache,Mild,Approved
+Rivadipine65,Analgesic,Allergy relief,"Dizziness, Rash, Fatigue",Mild,Pending
+Cefcillin84,Analgesic,Viral infections,"Dizziness, Headache",Severe,Pending
+Rivadipine53,Antiviral,Prevent infectious disease,"Constipation, Diarrhea, Insomnia",Moderate,Rejected
+Virazole78,Antiviral,Viral infections,Diarrhea,Moderate,Rejected
+Loxoxetine52,Antidepressant,Allergy relief,Fatigue,Moderate,Rejected
+Rivadipine66,Antiviral,Allergy relief,"Rash, Dizziness",Moderate,Pending
+Cefxetine80,Vaccine,Prevent infectious disease,"Rash, Dizziness",Moderate,Approved
+Daxocillin78,Antipyretic,Allergy relief,"Blurred vision, Insomnia, Dry mouth",Severe,Pending
+Virastatin59,Antipsychotic,Viral infections,Diarrhea,Severe,Rejected
+Seromab81,Antipsychotic,Depression treatment,"Dizziness, Dry mouth, Headache",Severe,Approved
+Viraxetine49,Antipyretic,Depression treatment,Headache,Moderate,Approved
+Rivazepam15,Antiviral,Psychosis control,"Constipation, Headache, Fatigue",Severe,Pending
+Rivavir97,Vaccine,Bacterial infections,Headache,Moderate,Pending
+Amoxxetine63,Antidepressant,Inflammation reduction,Headache,Mild,Approved
+Amoxparin59,Antipsychotic,Bacterial infections,"Constipation, Headache",Moderate,Pending
+Amoxprofen96,Antibiotic,Inflammation reduction,"Nausea, Dizziness",Moderate,Approved
+Serodipine67,Anti-inflammatory,Psychosis control,Insomnia,Severe,Approved
+Amoxmab12,Antifungal,Allergy relief,Blurred vision,Mild,Rejected
+Cefstatin83,Vaccine,Inflammation reduction,"Dizziness, Dry mouth",Mild,Approved
+Fenoprofen20,Antiviral,Viral infections,Blurred vision,Moderate,Rejected
+Seroxetine74,Anti-inflammatory,Depression treatment,"Dry mouth, Nausea, Constipation",Moderate,Rejected
+Zyloparin27,Analgesic,Depression treatment,"Dizziness, Rash, Dry mouth",Moderate,Pending
+Daxovir47,Analgesic,Allergy relief,Blurred vision,Mild,Pending
+Cefzepam18,Vaccine,Viral infections,"Rash, Dry mouth",Moderate,Rejected
+Mecodipine13,Antipsychotic,Psychosis control,Diarrhea,Severe,Approved
+Mecoprofen87,Antipsychotic,Allergy relief,"Fatigue, Diarrhea, Dry mouth",Severe,Approved
+Rivazole45,Antihistamine,Fungal infections,Nausea,Mild,Rejected
+Mecostatin29,Anti-inflammatory,Fever reduction,"Dry mouth, Headache, Blurred vision",Mild,Rejected
+Viraxetine93,Antifungal,Inflammation reduction,"Constipation, Dry mouth, Headache",Moderate,Approved
+Rivamab76,Antihistamine,Depression treatment,"Rash, Fatigue, Insomnia",Moderate,Approved
+Daxostatin16,Antipyretic,Inflammation reduction,Headache,Severe,Approved
+Zyloprofen49,Antidepressant,Inflammation reduction,"Fatigue, Insomnia",Mild,Approved
+Fenodipine30,Antihistamine,Depression treatment,"Dizziness, Blurred vision, Nausea",Severe,Rejected
+Rivastatin62,Analgesic,Viral infections,"Headache, Dizziness",Mild,Pending
+Fenocillin17,Antipsychotic,Inflammation reduction,"Diarrhea, Constipation, Rash",Severe,Rejected
+Viracillin74,Antidepressant,Fever reduction,"Rash, Headache, Insomnia",Moderate,Rejected
+Viramab48,Anti-inflammatory,Fungal infections,Rash,Moderate,Pending
+Virazole10,Anti-inflammatory,Viral infections,Constipation,Mild,Approved
+Fenozole11,Vaccine,Psychosis control,Insomnia,Mild,Approved
+Fenoprofen96,Antibiotic,Prevent infectious disease,"Blurred vision, Insomnia, Fatigue",Mild,Approved
+Zylozepam70,Antihistamine,Psychosis control,Constipation,Mild,Pending
+Fenozole34,Anti-inflammatory,Bacterial infections,"Nausea, Blurred vision",Mild,Approved
+Amoxprofen51,Antidepressant,Inflammation reduction,"Headache, Fatigue",Moderate,Pending
+Viraxetine23,Antidepressant,Pain relief,"Fatigue, Diarrhea",Severe,Rejected
+Cefcillin77,Antihistamine,Pain relief,"Diarrhea, Nausea, Blurred vision",Severe,Pending
+Amoxmab86,Antiviral,Pain relief,"Dizziness, Constipation, Fatigue",Severe,Pending
+Virazepam11,Vaccine,Inflammation reduction,"Fatigue, Constipation, Rash",Moderate,Rejected
+Loxomab50,Anti-inflammatory,Viral infections,"Insomnia, Fatigue, Nausea",Severe,Approved
+Mecodipine38,Antihistamine,Fever reduction,"Fatigue, Nausea",Severe,Rejected
+Mecodipine85,Anti-inflammatory,Prevent infectious disease,"Fatigue, Constipation, Diarrhea",Moderate,Rejected
+Daxomab50,Antiviral,Fungal infections,"Blurred vision, Dry mouth, Insomnia",Mild,Rejected
+Cefparin99,Antidepressant,Pain relief,"Insomnia, Fatigue",Mild,Rejected
+Zylovir34,Antihistamine,Prevent infectious disease,"Nausea, Blurred vision",Mild,Pending
+Mecocillin79,Antipyretic,Fungal infections,Constipation,Moderate,Rejected
+Viraprofen58,Antiviral,Allergy relief,"Insomnia, Constipation",Severe,Pending
+Seromab41,Antihistamine,Psychosis control,Insomnia,Moderate,Rejected
+Zylocillin95,Anti-inflammatory,Fungal infections,"Headache, Dry mouth, Blurred vision",Severe,Pending
+Cefvir18,Antiviral,Inflammation reduction,"Dizziness, Dry mouth",Moderate,Pending
+Virazepam13,Vaccine,Viral infections,"Dry mouth, Constipation",Moderate,Rejected
+Mecocillin28,Antihistamine,Fungal infections,Diarrhea,Mild,Rejected
+Cefstatin14,Antipsychotic,Bacterial infections,"Dry mouth, Nausea, Fatigue",Mild,Pending
+Fenocillin66,Antidepressant,Depression treatment,"Insomnia, Fatigue",Moderate,Pending
+Daxoxetine14,Analgesic,Prevent infectious disease,"Fatigue, Dry mouth",Moderate,Rejected
+Seroparin54,Antipyretic,Depression treatment,"Rash, Diarrhea",Mild,Rejected
+Zyloprofen51,Analgesic,Fever reduction,"Insomnia, Constipation",Mild,Pending
+Virastatin58,Antiviral,Depression treatment,"Rash, Constipation, Headache",Mild,Approved
+Loxoparin46,Antidepressant,Depression treatment,Headache,Moderate,Rejected
+Fenoxetine54,Antifungal,Fungal infections,"Dizziness, Nausea, Insomnia",Severe,Pending
+Cefmab70,Antiviral,Viral infections,"Nausea, Rash",Severe,Approved
+Loxozole36,Vaccine,Depression treatment,"Dry mouth, Fatigue",Severe,Pending
+Rivamab24,Antifungal,Depression treatment,"Rash, Constipation, Fatigue",Mild,Approved
+Daxozepam71,Antihistamine,Allergy relief,"Headache, Blurred vision, Nausea",Severe,Approved
+Fenovir49,Analgesic,Fungal infections,"Headache, Fatigue",Mild,Approved
+Mecoxetine61,Antihistamine,Pain relief,"Dizziness, Nausea, Blurred vision",Severe,Approved
+Amoxzole29,Antihistamine,Pain relief,"Fatigue, Nausea",Mild,Rejected
+Amoxparin89,Antipsychotic,Prevent infectious disease,"Rash, Dizziness",Mild,Approved
+Fenocillin45,Antiviral,Inflammation reduction,Headache,Mild,Pending
+Cefvir69,Antibiotic,Depression treatment,Dry mouth,Mild,Approved
+Rivadipine41,Antidepressant,Pain relief,Diarrhea,Moderate,Rejected
+Rivaparin92,Antiviral,Pain relief,"Dizziness, Blurred vision",Mild,Approved
+Serovir89,Antifungal,Prevent infectious disease,"Dry mouth, Diarrhea, Blurred vision",Moderate,Approved
+Amoxdipine80,Vaccine,Depression treatment,Insomnia,Mild,Rejected
+Rivacillin75,Antipyretic,Pain relief,"Headache, Blurred vision",Severe,Rejected
+Zylozole89,Antihistamine,Psychosis control,"Fatigue, Dizziness",Moderate,Rejected
+Cefmab21,Antibiotic,Inflammation reduction,"Dizziness, Constipation, Nausea",Mild,Rejected
+Zylozole82,Antipsychotic,Pain relief,Rash,Severe,Approved
+Daxozole29,Antipyretic,Bacterial infections,"Blurred vision, Fatigue",Mild,Pending
+Viraxetine58,Vaccine,Psychosis control,Fatigue,Moderate,Approved
+Mecomab65,Analgesic,Pain relief,"Constipation, Insomnia, Nausea",Severe,Pending
+Zyloparin37,Antidepressant,Pain relief,"Fatigue, Constipation",Severe,Pending
+Serovir59,Vaccine,Depression treatment,Nausea,Severe,Pending
+Zyloprofen19,Vaccine,Pain relief,"Headache, Diarrhea, Blurred vision",Moderate,Approved
+Mecoparin30,Analgesic,Bacterial infections,"Dizziness, Blurred vision, Diarrhea",Severe,Pending
+Loxoprofen85,Antibiotic,Fever reduction,Headache,Severe,Rejected
+Serovir80,Antihistamine,Allergy relief,Dizziness,Moderate,Pending
+Cefprofen96,Anti-inflammatory,Prevent infectious disease,Dry mouth,Moderate,Pending
+Viracillin47,Antibiotic,Bacterial infections,"Dry mouth, Fatigue",Mild,Pending
+Rivadipine99,Antifungal,Psychosis control,"Insomnia, Headache, Diarrhea",Severe,Pending
+Serovir17,Antidepressant,Pain relief,"Insomnia, Dizziness",Moderate,Rejected
+Serozepam71,Antidepressant,Allergy relief,Dry mouth,Mild,Approved
+Cefprofen55,Anti-inflammatory,Bacterial infections,"Dry mouth, Rash, Constipation",Severe,Approved
+Cefxetine92,Antipyretic,Allergy relief,"Blurred vision, Diarrhea",Moderate,Pending
+Rivastatin37,Anti-inflammatory,Viral infections,"Rash, Headache, Dizziness",Mild,Rejected
+Virazole71,Anti-inflammatory,Depression treatment,Rash,Mild,Pending
+Rivamab22,Antipsychotic,Pain relief,"Rash, Fatigue",Mild,Pending
+Amoxcillin98,Antihistamine,Viral infections,"Insomnia, Dry mouth",Mild,Approved
+Cefzepam94,Antiviral,Depression treatment,"Rash, Dry mouth",Moderate,Rejected
+Daxodipine26,Anti-inflammatory,Prevent infectious disease,"Headache, Constipation",Severe,Approved
+Zylocillin70,Antiviral,Fungal infections,"Fatigue, Blurred vision",Mild,Pending
+Loxoparin13,Antiviral,Bacterial infections,Headache,Moderate,Pending
+Cefmab84,Antiviral,Allergy relief,Dizziness,Severe,Rejected
+Mecomab57,Antihistamine,Prevent infectious disease,"Headache, Insomnia, Blurred vision",Severe,Pending
+Zylovir94,Anti-inflammatory,Prevent infectious disease,Insomnia,Mild,Approved
+Serostatin24,Vaccine,Viral infections,Headache,Mild,Approved
+Seroprofen34,Antipsychotic,Pain relief,"Rash, Headache",Severe,Rejected
+Amoxcillin71,Antifungal,Pain relief,"Rash, Insomnia",Mild,Pending
+Virastatin26,Antibiotic,Prevent infectious disease,Dry mouth,Moderate,Pending
+Rivacillin82,Analgesic,Allergy relief,"Dry mouth, Nausea, Blurred vision",Severe,Approved
+Cefdipine14,Anti-inflammatory,Psychosis control,"Nausea, Dizziness, Headache",Moderate,Pending
+Zylostatin93,Antiviral,Bacterial infections,"Diarrhea, Nausea, Rash",Moderate,Pending
+Fenoxetine95,Antihistamine,Depression treatment,Nausea,Mild,Rejected
+Serocillin95,Antihistamine,Fever reduction,"Insomnia, Rash, Nausea",Mild,Approved
+Cefxetine60,Antidepressant,Inflammation reduction,"Fatigue, Diarrhea",Severe,Approved
+Viraxetine36,Antidepressant,Fungal infections,Dizziness,Moderate,Rejected
+Loxodipine33,Antibiotic,Bacterial infections,Diarrhea,Mild,Approved
+Cefprofen67,Antiviral,Psychosis control,"Diarrhea, Blurred vision, Rash",Mild,Approved
+Zyloprofen25,Antibiotic,Fever reduction,Constipation,Moderate,Rejected
+Mecoparin38,Analgesic,Inflammation reduction,"Dizziness, Fatigue",Severe,Approved
+Fenozepam61,Antibiotic,Inflammation reduction,"Dizziness, Nausea",Moderate,Rejected
+Zyloxetine98,Antiviral,Bacterial infections,Headache,Mild,Approved
+Fenozepam26,Anti-inflammatory,Viral infections,"Fatigue, Dizziness, Blurred vision",Severe,Rejected
+Viraprofen94,Antiviral,Prevent infectious disease,"Blurred vision, Headache",Mild,Rejected
+Fenozepam78,Antibiotic,Depression treatment,"Constipation, Nausea, Fatigue",Severe,Approved
+Serocillin26,Antifungal,Depression treatment,"Constipation, Insomnia, Dizziness",Moderate,Pending
+Amoxprofen97,Antibiotic,Psychosis control,"Diarrhea, Insomnia",Moderate,Approved
+Loxoparin94,Analgesic,Pain relief,"Blurred vision, Headache",Moderate,Pending
+Daxoxetine74,Antidepressant,Allergy relief,Nausea,Severe,Pending
+Amoxzole45,Antihistamine,Depression treatment,"Nausea, Insomnia",Moderate,Rejected
+Zylozole96,Vaccine,Allergy relief,Insomnia,Severe,Rejected
+Amoxparin41,Anti-inflammatory,Fungal infections,"Dry mouth, Constipation, Blurred vision",Severe,Pending
+Fenomab73,Antipyretic,Viral infections,Diarrhea,Severe,Rejected
+Serozole98,Antidepressant,Bacterial infections,"Dry mouth, Blurred vision",Moderate,Approved
+Loxoxetine33,Antibiotic,Allergy relief,Headache,Mild,Approved
+Mecodipine78,Vaccine,Depression treatment,"Rash, Dizziness",Severe,Pending
+Rivaprofen49,Antihistamine,Pain relief,Dizziness,Severe,Approved
+Fenostatin84,Analgesic,Bacterial infections,"Dizziness, Dry mouth",Moderate,Pending
+Rivaprofen80,Antibiotic,Pain relief,Nausea,Mild,Rejected
+Viradipine61,Anti-inflammatory,Prevent infectious disease,Dry mouth,Mild,Approved
+Fenoparin86,Vaccine,Fever reduction,Dry mouth,Moderate,Pending
+Amoxvir18,Antifungal,Prevent infectious disease,"Blurred vision, Dizziness",Moderate,Approved
+Viraxetine28,Anti-inflammatory,Viral infections,"Insomnia, Blurred vision",Moderate,Approved
+Cefxetine20,Antipyretic,Viral infections,"Insomnia, Blurred vision",Mild,Approved
+Seroxetine31,Antiviral,Pain relief,"Diarrhea, Constipation, Dizziness",Mild,Rejected
+Amoxxetine87,Antiviral,Viral infections,Diarrhea,Severe,Pending
+Daxozole34,Antipyretic,Bacterial infections,"Headache, Insomnia",Mild,Rejected
+Zylostatin92,Antihistamine,Fever reduction,"Diarrhea, Blurred vision, Nausea",Moderate,Pending
+Serozepam90,Antipsychotic,Allergy relief,Dry mouth,Severe,Rejected
+Fenoprofen93,Antiviral,Fever reduction,Rash,Mild,Pending
+Rivaxetine90,Analgesic,Depression treatment,Fatigue,Mild,Rejected
+Daxozole40,Antifungal,Bacterial infections,"Diarrhea, Constipation",Severe,Approved
+Rivadipine90,Analgesic,Pain relief,"Fatigue, Diarrhea",Mild,Rejected
+Zylostatin42,Antifungal,Prevent infectious disease,Constipation,Mild,Approved
+Serocillin90,Antidepressant,Depression treatment,"Insomnia, Headache",Severe,Approved
+Loxomab92,Antifungal,Psychosis control,Headache,Mild,Rejected
+Loxodipine45,Antihistamine,Depression treatment,"Diarrhea, Fatigue, Constipation",Mild,Pending
+Loxostatin62,Anti-inflammatory,Fever reduction,"Headache, Fatigue, Dry mouth",Mild,Pending
+Rivazole52,Antipsychotic,Inflammation reduction,Constipation,Severe,Approved
+Serozepam72,Antidepressant,Psychosis control,"Diarrhea, Blurred vision, Insomnia",Moderate,Approved
+Viraprofen25,Antifungal,Bacterial infections,"Constipation, Fatigue",Mild,Rejected
+Viracillin43,Analgesic,Fever reduction,Blurred vision,Mild,Pending
+Amoxparin93,Antibiotic,Fever reduction,"Headache, Constipation",Severe,Rejected
+Amoxvir81,Antiviral,Pain relief,"Headache, Dry mouth",Moderate,Rejected
+Daxoparin23,Antipyretic,Fever reduction,Nausea,Mild,Pending
+Amoxparin16,Antibiotic,Allergy relief,"Dry mouth, Diarrhea",Severe,Approved
+Daxovir89,Antipsychotic,Inflammation reduction,"Constipation, Fatigue, Dry mouth",Mild,Rejected
+Zylomab58,Antipyretic,Inflammation reduction,"Diarrhea, Fatigue",Moderate,Approved
+Amoxmab22,Analgesic,Bacterial infections,"Nausea, Dry mouth, Constipation",Mild,Pending
+Rivastatin32,Antidepressant,Prevent infectious disease,"Insomnia, Dizziness",Mild,Pending
+Zylostatin60,Anti-inflammatory,Allergy relief,Fatigue,Mild,Pending
+Fenozepam42,Antipsychotic,Inflammation reduction,"Dry mouth, Headache, Rash",Mild,Approved
+Fenostatin78,Antibiotic,Viral infections,"Headache, Insomnia",Mild,Approved
+Rivaparin20,Antiviral,Fever reduction,"Diarrhea, Nausea, Headache",Severe,Pending
+Mecovir64,Antidepressant,Fever reduction,"Headache, Blurred vision",Mild,Approved
+Virastatin63,Analgesic,Viral infections,"Insomnia, Blurred vision",Severe,Pending
+Cefdipine80,Antipsychotic,Inflammation reduction,"Rash, Headache, Nausea",Mild,Pending
+Daxomab11,Antidepressant,Prevent infectious disease,"Dry mouth, Constipation, Diarrhea",Moderate,Pending
+Daxoxetine27,Antidepressant,Prevent infectious disease,Constipation,Severe,Approved
+Amoxxetine23,Antihistamine,Psychosis control,"Headache, Insomnia, Nausea",Severe,Rejected
+Mecozepam16,Antipsychotic,Depression treatment,"Fatigue, Blurred vision",Moderate,Approved
+Mecodipine88,Antihistamine,Pain relief,"Dizziness, Dry mouth",Moderate,Pending
+Seroprofen94,Vaccine,Depression treatment,Dry mouth,Severe,Rejected
+Daxozepam65,Antifungal,Fever reduction,"Dry mouth, Insomnia",Mild,Rejected
+Loxoxetine44,Vaccine,Pain relief,Fatigue,Severe,Approved
+Amoxprofen88,Antidepressant,Allergy relief,"Headache, Insomnia, Diarrhea",Mild,Pending
+Daxomab52,Vaccine,Allergy relief,Dizziness,Moderate,Rejected
+Amoxcillin65,Antibiotic,Prevent infectious disease,Dry mouth,Moderate,Rejected
+Cefzole11,Antihistamine,Viral infections,Rash,Moderate,Approved
+Viradipine65,Antipsychotic,Bacterial infections,"Fatigue, Diarrhea, Headache",Severe,Rejected
+Daxozepam86,Antipyretic,Allergy relief,"Headache, Dizziness, Insomnia",Mild,Approved
+Amoxprofen67,Vaccine,Viral infections,"Headache, Diarrhea",Moderate,Rejected
+Mecoxetine64,Antibiotic,Fungal infections,Insomnia,Moderate,Rejected
+Zylozole29,Antifungal,Depression treatment,"Constipation, Insomnia",Severe,Approved
+Zylomab53,Antiviral,Depression treatment,"Insomnia, Headache, Diarrhea",Moderate,Pending
+Cefzole35,Anti-inflammatory,Prevent infectious disease,"Dry mouth, Constipation",Mild,Approved
+Zylovir85,Antipsychotic,Fever reduction,"Headache, Diarrhea, Rash",Mild,Pending
+Amoxzole56,Antidepressant,Fever reduction,Constipation,Severe,Rejected
+Zylozepam47,Antipyretic,Inflammation reduction,"Fatigue, Rash, Diarrhea",Severe,Rejected
+Viraparin32,Antidepressant,Prevent infectious disease,"Fatigue, Constipation",Severe,Rejected
+Zylozole18,Antidepressant,Inflammation reduction,Headache,Mild,Rejected
+Seroxetine96,Anti-inflammatory,Allergy relief,"Fatigue, Rash, Blurred vision",Severe,Pending
+Fenocillin86,Antihistamine,Psychosis control,"Dry mouth, Constipation, Insomnia",Mild,Approved
+Fenoprofen97,Antiviral,Fungal infections,"Fatigue, Diarrhea",Mild,Pending
+Daxoparin47,Antiviral,Bacterial infections,"Blurred vision, Diarrhea",Moderate,Pending
+Rivaparin87,Vaccine,Prevent infectious disease,"Fatigue, Insomnia, Dry mouth",Severe,Rejected
+Loxostatin91,Antiviral,Viral infections,"Dry mouth, Fatigue",Mild,Approved
+Loxoxetine13,Analgesic,Allergy relief,"Nausea, Dry mouth, Blurred vision",Severe,Rejected
+Fenoprofen89,Anti-inflammatory,Fever reduction,"Headache, Nausea",Severe,Approved
+Fenoparin19,Antipsychotic,Psychosis control,"Insomnia, Blurred vision, Dry mouth",Mild,Rejected
+Loxovir91,Vaccine,Prevent infectious disease,Dry mouth,Mild,Approved
+Cefparin16,Antidepressant,Inflammation reduction,"Rash, Dizziness",Moderate,Rejected
+Amoxcillin64,Anti-inflammatory,Fungal infections,"Dizziness, Fatigue, Constipation",Severe,Pending
+Zyloprofen64,Antipsychotic,Allergy relief,Diarrhea,Moderate,Pending
+Fenozepam92,Antibiotic,Allergy relief,"Blurred vision, Dizziness, Fatigue",Severe,Rejected
+Loxostatin47,Vaccine,Allergy relief,Dry mouth,Severe,Approved
+Loxoxetine40,Anti-inflammatory,Fungal infections,"Diarrhea, Dry mouth",Severe,Rejected
+Fenomab49,Antipsychotic,Viral infections,"Blurred vision, Insomnia",Mild,Pending
+Viraparin82,Antidepressant,Allergy relief,Nausea,Moderate,Pending
+Loxostatin71,Analgesic,Fungal infections,Dry mouth,Mild,Approved
+Serozepam35,Antibiotic,Bacterial infections,Dizziness,Mild,Pending
+Virastatin49,Vaccine,Pain relief,"Insomnia, Dizziness",Mild,Rejected
+Cefxetine21,Antidepressant,Psychosis control,Constipation,Mild,Pending
+Cefxetine46,Vaccine,Depression treatment,"Fatigue, Insomnia, Nausea",Mild,Rejected
+Rivaxetine60,Antifungal,Allergy relief,"Dry mouth, Insomnia, Nausea",Severe,Rejected
+Loxozepam65,Antipsychotic,Fungal infections,"Dizziness, Rash",Severe,Pending
+Mecodipine19,Antipyretic,Pain relief,"Constipation, Rash, Headache",Moderate,Pending
+Virastatin40,Antihistamine,Viral infections,"Blurred vision, Constipation",Severe,Approved
+Fenoprofen78,Vaccine,Viral infections,"Dizziness, Constipation, Headache",Mild,Approved
+Cefzepam62,Antipyretic,Psychosis control,Headache,Severe,Rejected
+Daxoxetine26,Antifungal,Allergy relief,"Dry mouth, Dizziness, Blurred vision",Moderate,Pending
+Viraprofen92,Vaccine,Allergy relief,"Dizziness, Dry mouth",Moderate,Approved
+Serovir99,Antipsychotic,Depression treatment,Diarrhea,Moderate,Rejected
+Fenoxetine28,Antifungal,Fungal infections,Blurred vision,Mild,Approved
+Viramab63,Antiviral,Depression treatment,"Constipation, Dizziness, Dry mouth",Severe,Pending
+Daxozepam73,Antiviral,Fungal infections,"Insomnia, Dry mouth",Mild,Approved
+Mecovir95,Analgesic,Bacterial infections,"Nausea, Dizziness",Severe,Pending
+Seromab27,Analgesic,Allergy relief,"Dizziness, Constipation",Severe,Pending
+Daxomab91,Antidepressant,Allergy relief,Nausea,Mild,Approved
+Amoxxetine71,Anti-inflammatory,Prevent infectious disease,"Headache, Fatigue",Moderate,Approved
+Serozepam96,Antihistamine,Psychosis control,"Headache, Dry mouth",Mild,Approved
+Daxostatin88,Antiviral,Fever reduction,Blurred vision,Mild,Approved
+Mecoparin37,Antipyretic,Allergy relief,"Rash, Fatigue",Mild,Pending
+Rivamab66,Vaccine,Prevent infectious disease,"Blurred vision, Diarrhea",Severe,Rejected
+Rivadipine35,Antiviral,Allergy relief,"Constipation, Insomnia, Headache",Mild,Rejected
+Cefxetine29,Vaccine,Pain relief,Dizziness,Mild,Pending
+Mecovir22,Vaccine,Allergy relief,"Rash, Dizziness",Mild,Rejected
+Daxomab60,Antipyretic,Psychosis control,"Dry mouth, Insomnia, Blurred vision",Moderate,Approved
+Seroprofen44,Antipsychotic,Prevent infectious disease,"Rash, Nausea",Moderate,Rejected
+Fenostatin19,Antifungal,Depression treatment,"Headache, Dizziness",Severe,Approved
+Mecozepam44,Analgesic,Inflammation reduction,Rash,Severe,Rejected
+Amoxxetine11,Antipsychotic,Inflammation reduction,Fatigue,Severe,Rejected
+Mecostatin14,Anti-inflammatory,Depression treatment,"Nausea, Dizziness",Moderate,Pending
+Fenodipine32,Analgesic,Bacterial infections,Constipation,Severe,Rejected
+Serozepam90,Antidepressant,Pain relief,Dry mouth,Mild,Rejected
+Amoxcillin61,Antidepressant,Fever reduction,"Fatigue, Headache, Blurred vision",Mild,Approved
+Cefzole43,Antifungal,Prevent infectious disease,Rash,Moderate,Approved
+Seroparin74,Analgesic,Allergy relief,Nausea,Severe,Approved
+Seromab52,Antiviral,Viral infections,"Diarrhea, Nausea",Moderate,Pending
+Rivaparin94,Anti-inflammatory,Fever reduction,"Blurred vision, Insomnia, Rash",Moderate,Approved
+Cefvir95,Antipsychotic,Fever reduction,Rash,Mild,Rejected
+Amoxzole86,Analgesic,Fungal infections,"Fatigue, Dry mouth",Severe,Approved
+Fenocillin18,Anti-inflammatory,Allergy relief,Blurred vision,Moderate,Approved
+Seroparin76,Antidepressant,Psychosis control,Blurred vision,Moderate,Approved
+Loxodipine57,Antifungal,Fungal infections,Blurred vision,Severe,Pending
+Zylovir33,Antifungal,Bacterial infections,"Constipation, Fatigue",Mild,Approved
+Viracillin58,Analgesic,Allergy relief,"Insomnia, Dry mouth, Constipation",Moderate,Pending
+Seromab88,Antifungal,Prevent infectious disease,"Nausea, Insomnia, Diarrhea",Severe,Rejected
+Zylodipine14,Analgesic,Bacterial infections,"Nausea, Rash, Blurred vision",Mild,Approved
+Rivadipine47,Antiviral,Inflammation reduction,"Nausea, Dry mouth",Severe,Rejected
+Mecomab85,Antidepressant,Fever reduction,"Nausea, Fatigue, Blurred vision",Moderate,Pending
+Amoxxetine30,Antifungal,Psychosis control,"Fatigue, Dizziness",Severe,Rejected
+Daxostatin28,Anti-inflammatory,Viral infections,Blurred vision,Mild,Rejected
+Seroxetine93,Anti-inflammatory,Depression treatment,"Rash, Dizziness, Dry mouth",Mild,Pending
+Rivaparin27,Anti-inflammatory,Fever reduction,Fatigue,Severe,Rejected
+Cefprofen76,Antiviral,Prevent infectious disease,Constipation,Mild,Rejected
+Amoxparin66,Antibiotic,Depression treatment,"Headache, Blurred vision, Dry mouth",Severe,Rejected
+Fenozepam96,Antiviral,Fever reduction,"Dizziness, Rash",Mild,Pending
+Zylodipine37,Anti-inflammatory,Psychosis control,"Rash, Dry mouth",Moderate,Rejected
+Daxocillin50,Antipsychotic,Inflammation reduction,Nausea,Mild,Rejected
+Cefvir49,Analgesic,Allergy relief,Dizziness,Moderate,Approved
+Mecozepam32,Antidepressant,Depression treatment,"Blurred vision, Headache, Dizziness",Severe,Approved
+Amoxcillin59,Antifungal,Psychosis control,Dry mouth,Moderate,Pending
+Rivadipine74,Antidepressant,Bacterial infections,"Rash, Headache, Insomnia",Mild,Approved
+Daxozepam74,Antibiotic,Fungal infections,"Insomnia, Dry mouth",Mild,Rejected
+Viracillin97,Antibiotic,Fungal infections,"Dizziness, Rash, Nausea",Mild,Pending
+Cefvir25,Antihistamine,Allergy relief,"Headache, Fatigue",Moderate,Pending
+Zyloprofen50,Antihistamine,Viral infections,Headache,Moderate,Approved
+Zylozole18,Antifungal,Fever reduction,"Fatigue, Nausea",Moderate,Rejected
+Fenozepam21,Anti-inflammatory,Prevent infectious disease,"Diarrhea, Dry mouth",Severe,Rejected
+Virazepam91,Anti-inflammatory,Psychosis control,Fatigue,Severe,Approved
+Cefzepam90,Antibiotic,Bacterial infections,"Headache, Dry mouth",Moderate,Rejected
+Daxostatin49,Antifungal,Pain relief,"Diarrhea, Constipation",Mild,Pending
+Amoxparin66,Anti-inflammatory,Fever reduction,"Dizziness, Nausea",Mild,Approved
+Rivaprofen18,Antifungal,Bacterial infections,Dry mouth,Severe,Rejected
+Daxoparin14,Antifungal,Bacterial infections,"Blurred vision, Rash, Insomnia",Severe,Pending
+Viraprofen90,Antihistamine,Depression treatment,"Dizziness, Dry mouth",Mild,Rejected
+Amoxprofen14,Vaccine,Viral infections,"Rash, Dry mouth, Headache",Severe,Pending
+Seromab18,Antiviral,Pain relief,Dizziness,Severe,Approved
+Daxocillin68,Antibiotic,Viral infections,"Blurred vision, Nausea, Diarrhea",Mild,Approved
+Loxovir33,Antibiotic,Fungal infections,"Nausea, Dry mouth",Moderate,Rejected
+Cefcillin23,Antibiotic,Psychosis control,Dizziness,Mild,Approved
+Seroprofen12,Analgesic,Inflammation reduction,"Rash, Dizziness, Constipation",Moderate,Approved
+Zyloprofen25,Analgesic,Allergy relief,Rash,Severe,Rejected
+Daxocillin56,Anti-inflammatory,Fever reduction,"Blurred vision, Constipation, Dry mouth",Severe,Approved
+Fenoprofen12,Antipyretic,Allergy relief,"Blurred vision, Diarrhea, Dry mouth",Severe,Pending
+Cefzepam33,Antifungal,Prevent infectious disease,"Constipation, Rash",Mild,Approved
+Cefvir94,Vaccine,Depression treatment,"Rash, Dizziness",Severe,Approved
+Mecozole29,Antipyretic,Fungal infections,"Blurred vision, Rash",Severe,Pending
+Viradipine96,Antihistamine,Inflammation reduction,Rash,Moderate,Rejected
+Mecozole85,Antipyretic,Fungal infections,"Headache, Fatigue, Diarrhea",Mild,Approved
+Daxozepam84,Antidepressant,Pain relief,"Dizziness, Insomnia",Moderate,Rejected
+Fenozole66,Antipyretic,Fever reduction,Fatigue,Severe,Pending
+Seroprofen69,Antipsychotic,Depression treatment,"Constipation, Fatigue, Headache",Mild,Rejected
+Rivamab17,Anti-inflammatory,Psychosis control,"Insomnia, Blurred vision",Severe,Pending
+Mecozepam35,Antibiotic,Psychosis control,"Rash, Nausea, Dizziness",Moderate,Approved
+Serozole63,Antipsychotic,Prevent infectious disease,"Constipation, Blurred vision, Insomnia",Mild,Pending
+Fenodipine80,Antidepressant,Inflammation reduction,Dry mouth,Moderate,Pending
+Mecoparin14,Antibiotic,Pain relief,Insomnia,Mild,Pending
+Daxomab45,Antiviral,Pain relief,"Blurred vision, Diarrhea",Severe,Pending
+Mecozepam41,Analgesic,Depression treatment,"Headache, Fatigue",Severe,Pending
+Rivamab17,Antidepressant,Prevent infectious disease,"Headache, Insomnia",Severe,Pending
+Serozole84,Antipyretic,Bacterial infections,"Diarrhea, Rash, Dizziness",Moderate,Rejected
+Fenozepam55,Antibiotic,Prevent infectious disease,"Constipation, Blurred vision",Moderate,Approved
+Zyloparin97,Antipsychotic,Fungal infections,Blurred vision,Severe,Pending
+Loxovir75,Antidepressant,Depression treatment,"Rash, Insomnia",Severe,Pending
+Fenodipine84,Antiviral,Inflammation reduction,"Rash, Blurred vision",Moderate,Pending
+Mecoprofen56,Vaccine,Prevent infectious disease,"Blurred vision, Insomnia, Diarrhea",Severe,Approved
+Rivaprofen59,Vaccine,Allergy relief,Dizziness,Severe,Pending
+Viradipine19,Antidepressant,Depression treatment,"Constipation, Dry mouth, Insomnia",Severe,Approved
+Amoxstatin19,Antifungal,Allergy relief,"Diarrhea, Dizziness",Moderate,Rejected
+Seromab75,Analgesic,Viral infections,Nausea,Mild,Rejected
+Zylozole76,Anti-inflammatory,Bacterial infections,Headache,Mild,Pending
+Daxovir39,Analgesic,Prevent infectious disease,Nausea,Moderate,Rejected
+Viraprofen83,Antidepressant,Fever reduction,"Dizziness, Dry mouth",Severe,Rejected
+Loxostatin66,Antipsychotic,Fungal infections,Fatigue,Moderate,Approved
+Loxodipine77,Vaccine,Fungal infections,Rash,Mild,Pending
+Zylomab43,Vaccine,Prevent infectious disease,"Fatigue, Diarrhea",Mild,Pending
+Loxoprofen99,Antiviral,Bacterial infections,"Insomnia, Dizziness, Constipation",Severe,Rejected
+Daxocillin59,Antihistamine,Psychosis control,Dizziness,Moderate,Pending
+Cefprofen72,Antipsychotic,Bacterial infections,"Diarrhea, Headache",Moderate,Pending
+Zylozole95,Antidepressant,Fever reduction,Dry mouth,Mild,Approved
+Viraxetine21,Antipsychotic,Psychosis control,"Nausea, Constipation, Blurred vision",Severe,Rejected
+Rivazepam31,Antipsychotic,Pain relief,"Dizziness, Diarrhea, Fatigue",Severe,Approved
+Fenocillin34,Antiviral,Viral infections,Headache,Moderate,Rejected
+Loxovir26,Anti-inflammatory,Pain relief,Nausea,Mild,Rejected
+Daxoprofen74,Antifungal,Fever reduction,"Constipation, Fatigue",Severe,Pending
+Zylostatin92,Analgesic,Bacterial infections,"Blurred vision, Nausea",Mild,Rejected
+Zyloprofen87,Anti-inflammatory,Viral infections,"Headache, Fatigue, Constipation",Mild,Pending
+Fenoparin96,Antihistamine,Bacterial infections,Dry mouth,Mild,Rejected
+Virazole10,Analgesic,Fungal infections,"Dry mouth, Rash, Nausea",Severe,Approved
+Mecozepam91,Anti-inflammatory,Bacterial infections,Dizziness,Moderate,Approved
+Loxoxetine30,Antipyretic,Viral infections,"Dry mouth, Constipation",Mild,Rejected
+Loxoparin21,Anti-inflammatory,Allergy relief,"Constipation, Blurred vision, Diarrhea",Mild,Approved
+Rivadipine26,Antiviral,Pain relief,"Diarrhea, Dry mouth",Moderate,Pending
+Viravir78,Antibiotic,Prevent infectious disease,"Nausea, Headache",Mild,Pending
+Viraparin66,Antipsychotic,Bacterial infections,"Blurred vision, Rash",Mild,Approved
+Mecozepam69,Anti-inflammatory,Bacterial infections,Dizziness,Severe,Rejected
+Amoxvir41,Antidepressant,Viral infections,"Constipation, Blurred vision, Dizziness",Severe,Rejected
+Virazole92,Vaccine,Prevent infectious disease,"Dizziness, Blurred vision",Mild,Rejected
+Zylocillin45,Analgesic,Pain relief,"Rash, Constipation",Severe,Pending
+Zyloparin35,Vaccine,Prevent infectious disease,Insomnia,Mild,Approved
+Viravir41,Antidepressant,Psychosis control,"Fatigue, Rash",Mild,Approved
+Mecomab60,Antiviral,Prevent infectious disease,Blurred vision,Moderate,Approved
+Amoxstatin30,Analgesic,Fever reduction,"Fatigue, Insomnia",Severe,Rejected
+Serodipine33,Antifungal,Fever reduction,"Nausea, Fatigue",Moderate,Pending
+Mecocillin87,Antipyretic,Prevent infectious disease,"Dry mouth, Fatigue",Mild,Pending
+Daxovir41,Analgesic,Depression treatment,Diarrhea,Severe,Rejected
+Serozole25,Antifungal,Prevent infectious disease,"Diarrhea, Blurred vision",Severe,Rejected
+Daxostatin58,Antidepressant,Inflammation reduction,"Blurred vision, Nausea, Diarrhea",Moderate,Pending
+Mecomab24,Antiviral,Bacterial infections,"Headache, Nausea",Moderate,Approved
+Rivaxetine71,Vaccine,Prevent infectious disease,"Rash, Fatigue, Insomnia",Moderate,Approved
+Viramab49,Antifungal,Bacterial infections,"Rash, Dizziness, Nausea",Severe,Pending
+Fenodipine86,Antipsychotic,Fungal infections,"Constipation, Dizziness",Severe,Pending
+Seroparin27,Antifungal,Depression treatment,Nausea,Severe,Pending
+Amoxstatin28,Anti-inflammatory,Viral infections,Blurred vision,Moderate,Pending
+Serodipine85,Antipsychotic,Pain relief,"Nausea, Blurred vision, Rash",Mild,Pending
+Cefdipine98,Analgesic,Allergy relief,"Dry mouth, Diarrhea",Mild,Rejected
+Fenozepam84,Vaccine,Prevent infectious disease,Insomnia,Severe,Approved
+Cefzepam49,Anti-inflammatory,Depression treatment,"Headache, Insomnia",Severe,Approved
+Viraprofen83,Antifungal,Allergy relief,"Rash, Blurred vision, Dizziness",Severe,Approved
+Mecovir27,Analgesic,Allergy relief,"Dizziness, Fatigue, Headache",Mild,Rejected
+Cefxetine87,Antipyretic,Allergy relief,"Diarrhea, Blurred vision",Mild,Rejected
+Amoxcillin42,Vaccine,Bacterial infections,"Insomnia, Dizziness, Fatigue",Severe,Pending
+Mecozepam65,Antibiotic,Psychosis control,Diarrhea,Moderate,Rejected
+Seroparin58,Antibiotic,Bacterial infections,"Diarrhea, Headache",Mild,Approved
+Cefzepam91,Analgesic,Pain relief,"Insomnia, Constipation",Mild,Rejected
+Virastatin74,Analgesic,Prevent infectious disease,"Blurred vision, Dizziness",Severe,Rejected
+Mecoprofen55,Antifungal,Depression treatment,"Rash, Diarrhea, Constipation",Moderate,Rejected
+Daxovir69,Antidepressant,Prevent infectious disease,"Dizziness, Constipation",Mild,Pending
+Viraprofen54,Antiviral,Pain relief,Insomnia,Mild,Rejected
+Amoxparin83,Antiviral,Prevent infectious disease,"Dry mouth, Rash, Dizziness",Moderate,Rejected
+Viraprofen38,Vaccine,Psychosis control,Fatigue,Severe,Rejected
+Daxostatin19,Antipyretic,Inflammation reduction,"Dry mouth, Dizziness",Moderate,Rejected
+Fenocillin43,Antipsychotic,Depression treatment,Headache,Mild,Approved
+Daxomab61,Vaccine,Allergy relief,Rash,Mild,Approved
+Rivaprofen72,Vaccine,Prevent infectious disease,Diarrhea,Severe,Pending
+Fenoprofen74,Vaccine,Depression treatment,Fatigue,Mild,Approved
+Mecodipine80,Antiviral,Fever reduction,"Constipation, Headache",Mild,Pending
+Zylocillin66,Antibiotic,Depression treatment,"Rash, Headache",Mild,Rejected
+Fenozole49,Anti-inflammatory,Viral infections,Nausea,Mild,Approved
+Rivaparin53,Antipyretic,Depression treatment,"Dry mouth, Diarrhea, Nausea",Mild,Rejected
+Seromab62,Antifungal,Allergy relief,Blurred vision,Severe,Pending
+Rivaxetine31,Anti-inflammatory,Prevent infectious disease,"Insomnia, Nausea",Mild,Pending
+Loxozepam13,Antibiotic,Fungal infections,"Fatigue, Headache",Mild,Approved
+Cefparin54,Antidepressant,Bacterial infections,"Rash, Headache",Mild,Approved
+Rivaxetine99,Antiviral,Psychosis control,Insomnia,Severe,Approved
+Fenomab91,Antiviral,Pain relief,"Fatigue, Dizziness",Mild,Rejected
+Viradipine86,Antihistamine,Bacterial infections,"Diarrhea, Constipation",Severe,Approved
+Mecovir14,Antidepressant,Viral infections,"Constipation, Insomnia",Severe,Approved
+Loxomab42,Antifungal,Prevent infectious disease,"Fatigue, Constipation",Moderate,Approved
+Serostatin46,Vaccine,Pain relief,Fatigue,Mild,Approved
+Loxoparin72,Antipsychotic,Fungal infections,"Diarrhea, Constipation",Moderate,Pending
+Cefstatin83,Antifungal,Pain relief,"Nausea, Dry mouth, Dizziness",Moderate,Pending
+Zyloprofen19,Vaccine,Fungal infections,Headache,Moderate,Rejected
+Mecoprofen21,Antihistamine,Pain relief,"Blurred vision, Nausea, Rash",Severe,Rejected
+Zyloprofen60,Antiviral,Inflammation reduction,Fatigue,Mild,Pending
+Daxostatin14,Antibiotic,Viral infections,"Headache, Fatigue, Diarrhea",Moderate,Approved
+Fenozole24,Antipyretic,Fever reduction,"Dry mouth, Diarrhea",Severe,Approved
+Cefprofen50,Vaccine,Bacterial infections,"Dry mouth, Constipation",Moderate,Pending
+Viramab50,Antibiotic,Pain relief,"Dizziness, Dry mouth, Blurred vision",Mild,Rejected
+Viramab90,Antifungal,Inflammation reduction,Nausea,Moderate,Pending
+Daxodipine85,Antipyretic,Bacterial infections,"Insomnia, Rash, Dizziness",Moderate,Pending
+Mecovir97,Antiviral,Prevent infectious disease,"Fatigue, Dizziness",Severe,Rejected
+Amoxcillin60,Vaccine,Depression treatment,Insomnia,Mild,Pending
+Mecocillin57,Antidepressant,Fever reduction,"Rash, Diarrhea",Severe,Approved
+Amoxprofen70,Analgesic,Pain relief,Nausea,Moderate,Pending
+Cefdipine30,Antibiotic,Pain relief,"Headache, Constipation, Blurred vision",Mild,Rejected
+Amoxprofen87,Antipyretic,Psychosis control,Dry mouth,Mild,Rejected
+Loxozole34,Antibiotic,Pain relief,Diarrhea,Mild,Pending
+Zyloparin52,Antifungal,Depression treatment,Dry mouth,Mild,Rejected
+Loxodipine22,Antipsychotic,Viral infections,"Constipation, Dizziness, Diarrhea",Mild,Approved
+Serodipine19,Antifungal,Prevent infectious disease,"Blurred vision, Insomnia, Diarrhea",Severe,Rejected
+Loxoparin75,Vaccine,Inflammation reduction,Dizziness,Severe,Pending
+Fenoxetine67,Antipsychotic,Pain relief,"Blurred vision, Rash, Diarrhea",Mild,Approved
+Rivavir33,Vaccine,Inflammation reduction,Fatigue,Moderate,Rejected
+Loxodipine35,Antihistamine,Viral infections,"Dry mouth, Fatigue, Constipation",Mild,Rejected
+Virastatin70,Antipyretic,Prevent infectious disease,"Constipation, Headache, Rash",Mild,Pending
+Daxoxetine84,Antipyretic,Bacterial infections,"Blurred vision, Nausea, Constipation",Mild,Approved
+Rivazepam35,Antidepressant,Psychosis control,"Diarrhea, Headache",Mild,Pending
+Fenomab47,Antipyretic,Psychosis control,Fatigue,Severe,Approved
+Viramab34,Antipsychotic,Fungal infections,Blurred vision,Severe,Pending
+Cefstatin37,Vaccine,Psychosis control,"Headache, Dizziness, Dry mouth",Severe,Rejected
+Fenostatin31,Vaccine,Bacterial infections,Blurred vision,Mild,Pending
+Daxostatin37,Antidepressant,Fever reduction,"Insomnia, Rash, Headache",Moderate,Approved
+Amoxvir99,Antipsychotic,Allergy relief,Insomnia,Moderate,Rejected
+Rivavir42,Antifungal,Bacterial infections,Insomnia,Mild,Approved
+Mecovir92,Antipsychotic,Viral infections,Nausea,Moderate,Approved
+Mecoprofen57,Antipsychotic,Fever reduction,Blurred vision,Severe,Approved
+Cefxetine17,Anti-inflammatory,Fungal infections,"Diarrhea, Rash",Moderate,Rejected
+Zylovir61,Antibiotic,Depression treatment,Fatigue,Mild,Pending
+Mecoxetine16,Antibiotic,Allergy relief,"Diarrhea, Insomnia, Fatigue",Severe,Rejected
+Mecostatin74,Analgesic,Depression treatment,"Dry mouth, Blurred vision",Moderate,Approved
+Fenostatin39,Antipsychotic,Fever reduction,"Rash, Blurred vision",Moderate,Rejected
+Mecoprofen57,Antifungal,Inflammation reduction,"Insomnia, Diarrhea",Moderate,Rejected
+Loxozole63,Vaccine,Allergy relief,Insomnia,Severe,Pending
+Loxostatin84,Anti-inflammatory,Prevent infectious disease,"Headache, Constipation",Moderate,Approved
+Cefdipine73,Analgesic,Psychosis control,"Headache, Dizziness",Moderate,Pending
+Cefcillin39,Antiviral,Fungal infections,"Blurred vision, Rash, Dizziness",Moderate,Pending
+Daxozole67,Antifungal,Psychosis control,"Nausea, Constipation, Blurred vision",Severe,Approved
+Seroxetine67,Antipyretic,Prevent infectious disease,"Dizziness, Dry mouth, Diarrhea",Severe,Approved
+Rivastatin43,Antiviral,Psychosis control,Fatigue,Moderate,Approved
+Rivaxetine50,Anti-inflammatory,Depression treatment,"Blurred vision, Nausea",Moderate,Rejected
+Zyloparin25,Antifungal,Inflammation reduction,"Dry mouth, Constipation",Mild,Pending
+Mecomab42,Anti-inflammatory,Prevent infectious disease,Fatigue,Mild,Pending
+Zylozole88,Antihistamine,Bacterial infections,Headache,Severe,Approved
+Serodipine52,Antibiotic,Psychosis control,"Constipation, Fatigue",Moderate,Pending
+Serovir50,Antipyretic,Fever reduction,"Headache, Constipation",Mild,Pending
+Amoxzole80,Antihistamine,Allergy relief,"Diarrhea, Blurred vision",Severe,Approved
+Viraparin10,Antipyretic,Depression treatment,Nausea,Mild,Pending
+Viramab45,Vaccine,Prevent infectious disease,"Dry mouth, Headache, Constipation",Mild,Rejected
+Cefprofen22,Antifungal,Depression treatment,Headache,Severe,Approved
+Amoxzole83,Antiviral,Depression treatment,"Blurred vision, Rash",Moderate,Approved
+Fenostatin15,Antifungal,Pain relief,"Dry mouth, Nausea, Fatigue",Mild,Rejected
+Serovir46,Antifungal,Allergy relief,"Insomnia, Diarrhea, Dry mouth",Moderate,Pending
+Rivazepam82,Antihistamine,Depression treatment,"Rash, Blurred vision, Dizziness",Severe,Rejected
+Rivaparin62,Antiviral,Psychosis control,"Constipation, Nausea",Severe,Approved
+Rivavir65,Antihistamine,Bacterial infections,Blurred vision,Moderate,Rejected
+Serodipine29,Antidepressant,Fever reduction,Dry mouth,Severe,Rejected
+Zylovir83,Antidepressant,Bacterial infections,Nausea,Severe,Approved
+Amoxzepam23,Antiviral,Psychosis control,"Dizziness, Rash, Constipation",Moderate,Approved
+Serozole98,Antibiotic,Depression treatment,"Dry mouth, Diarrhea, Nausea",Severe,Rejected
+Fenoparin58,Antipsychotic,Inflammation reduction,"Dry mouth, Headache, Fatigue",Mild,Approved
+Zyloprofen42,Antipsychotic,Bacterial infections,"Headache, Constipation",Mild,Approved
+Cefprofen81,Anti-inflammatory,Viral infections,"Blurred vision, Headache",Severe,Approved
+Serodipine97,Anti-inflammatory,Depression treatment,Blurred vision,Moderate,Pending
+Amoxdipine97,Antidepressant,Inflammation reduction,"Rash, Diarrhea, Dry mouth",Severe,Rejected
+Serodipine11,Antiviral,Inflammation reduction,"Diarrhea, Nausea",Mild,Rejected
+Daxostatin15,Antidepressant,Inflammation reduction,"Dry mouth, Blurred vision, Nausea",Mild,Pending
+Viraparin98,Antifungal,Psychosis control,"Diarrhea, Insomnia, Dry mouth",Moderate,Rejected
+Cefvir16,Antipsychotic,Fungal infections,Diarrhea,Severe,Rejected
+Viradipine92,Antiviral,Pain relief,Nausea,Moderate,Pending
+Serostatin90,Antipyretic,Fever reduction,"Constipation, Dry mouth, Insomnia",Mild,Approved
+Fenoxetine80,Vaccine,Prevent infectious disease,Rash,Mild,Pending
+Daxozole54,Antidepressant,Viral infections,"Fatigue, Insomnia",Severe,Approved
+Amoxzole92,Antipyretic,Allergy relief,Constipation,Moderate,Approved
+Virazepam99,Antidepressant,Depression treatment,Dry mouth,Mild,Rejected
+Cefzepam73,Antihistamine,Inflammation reduction,"Nausea, Insomnia",Severe,Pending
+Viraparin18,Antifungal,Prevent infectious disease,Nausea,Severe,Rejected
+Mecovir21,Antifungal,Pain relief,Nausea,Moderate,Rejected
+Zylocillin13,Antipsychotic,Fungal infections,"Rash, Constipation",Severe,Pending
+Amoxxetine13,Antiviral,Psychosis control,"Blurred vision, Fatigue",Moderate,Approved
+Fenocillin75,Antibiotic,Psychosis control,"Fatigue, Nausea",Severe,Pending
+Daxoparin63,Antidepressant,Depression treatment,Headache,Mild,Pending
+Rivacillin31,Antidepressant,Psychosis control,"Dry mouth, Diarrhea, Dizziness",Severe,Approved
+Loxoparin12,Anti-inflammatory,Depression treatment,"Headache, Constipation, Diarrhea",Moderate,Pending
+Amoxdipine33,Antipsychotic,Psychosis control,"Nausea, Fatigue",Mild,Approved
+Mecostatin65,Vaccine,Depression treatment,Blurred vision,Moderate,Approved
+Cefstatin33,Anti-inflammatory,Pain relief,Diarrhea,Moderate,Rejected
+Loxozole23,Antihistamine,Fungal infections,"Dizziness, Nausea",Severe,Pending
+Amoxdipine26,Antiviral,Allergy relief,"Diarrhea, Nausea, Rash",Moderate,Rejected
+Viraparin51,Antibiotic,Prevent infectious disease,Constipation,Severe,Pending
+Cefdipine35,Vaccine,Inflammation reduction,Headache,Moderate,Pending
+Daxomab69,Antipsychotic,Inflammation reduction,Diarrhea,Mild,Rejected
+Cefdipine81,Anti-inflammatory,Fever reduction,Constipation,Moderate,Approved
+Cefzepam68,Vaccine,Viral infections,Dry mouth,Severe,Pending
+Rivaprofen39,Antidepressant,Pain relief,"Headache, Rash, Fatigue",Moderate,Rejected
+Viramab35,Antipyretic,Fever reduction,"Fatigue, Dizziness",Severe,Approved
+Seroxetine66,Antihistamine,Prevent infectious disease,Fatigue,Severe,Pending
+Loxoprofen81,Antiviral,Viral infections,"Blurred vision, Dizziness, Diarrhea",Mild,Rejected
+Zylocillin21,Anti-inflammatory,Psychosis control,"Rash, Blurred vision, Headache",Severe,Rejected
+Rivadipine83,Antipsychotic,Inflammation reduction,"Nausea, Diarrhea, Fatigue",Severe,Pending
+Zylocillin36,Antibiotic,Fever reduction,Blurred vision,Mild,Approved
+Fenostatin75,Antipyretic,Prevent infectious disease,Blurred vision,Severe,Pending
+Daxodipine71,Antidepressant,Psychosis control,"Rash, Fatigue",Mild,Pending
+Rivaparin92,Antipyretic,Allergy relief,Dry mouth,Mild,Approved
+Rivazole11,Antifungal,Pain relief,Insomnia,Severe,Pending
+Loxoxetine86,Antiviral,Bacterial infections,Insomnia,Moderate,Pending
+Amoxparin87,Antiviral,Viral infections,Rash,Mild,Pending
+Cefmab41,Antidepressant,Depression treatment,"Insomnia, Blurred vision",Mild,Rejected
+Seroprofen33,Antiviral,Inflammation reduction,"Nausea, Headache",Moderate,Rejected
+Zylozepam89,Antibiotic,Bacterial infections,"Constipation, Fatigue, Dizziness",Moderate,Pending
+Rivadipine71,Antibiotic,Inflammation reduction,Fatigue,Mild,Pending
+Daxocillin68,Vaccine,Fungal infections,"Rash, Insomnia, Diarrhea",Mild,Approved
+Viradipine34,Antibiotic,Fungal infections,"Diarrhea, Fatigue",Severe,Pending
+Zyloparin86,Antihistamine,Fever reduction,"Rash, Fatigue",Mild,Pending
+Viracillin10,Antibiotic,Prevent infectious disease,"Constipation, Blurred vision, Dry mouth",Mild,Pending
+Loxozole64,Anti-inflammatory,Bacterial infections,"Constipation, Nausea, Insomnia",Severe,Rejected
+Fenoprofen59,Vaccine,Bacterial infections,Fatigue,Mild,Rejected
+Amoxxetine63,Antifungal,Viral infections,"Headache, Nausea",Severe,Pending
+Daxozepam21,Antifungal,Depression treatment,"Headache, Insomnia, Blurred vision",Moderate,Rejected
+Serocillin13,Antihistamine,Fever reduction,"Dry mouth, Headache",Moderate,Pending
+Zylozepam71,Anti-inflammatory,Pain relief,"Blurred vision, Fatigue",Moderate,Approved
+Zylozepam80,Antifungal,Psychosis control,"Insomnia, Rash, Constipation",Moderate,Approved
+Daxozole39,Antipsychotic,Pain relief,Blurred vision,Moderate,Rejected
+Serodipine59,Antidepressant,Psychosis control,"Blurred vision, Insomnia",Severe,Approved
+Rivazole30,Vaccine,Viral infections,"Insomnia, Diarrhea, Headache",Moderate,Pending
+Rivaprofen79,Antipsychotic,Allergy relief,Blurred vision,Mild,Approved
+Zylozepam79,Antidepressant,Viral infections,Insomnia,Mild,Approved
+Viracillin89,Antipsychotic,Fungal infections,"Rash, Insomnia",Mild,Approved
+Loxocillin94,Analgesic,Fever reduction,"Dizziness, Nausea, Fatigue",Mild,Approved
+Daxomab18,Anti-inflammatory,Bacterial infections,Diarrhea,Severe,Pending
+Mecodipine48,Anti-inflammatory,Fungal infections,"Dry mouth, Rash, Nausea",Mild,Approved
+Daxovir91,Vaccine,Viral infections,Dizziness,Mild,Pending
+Loxocillin70,Vaccine,Allergy relief,"Nausea, Dizziness, Diarrhea",Mild,Pending
+Rivaxetine71,Analgesic,Psychosis control,Headache,Severe,Rejected
+Daxoprofen36,Vaccine,Viral infections,"Headache, Constipation, Dizziness",Moderate,Rejected
+Fenoxetine15,Antipsychotic,Pain relief,Fatigue,Moderate,Pending
+Loxovir99,Antidepressant,Fever reduction,"Blurred vision, Rash",Severe,Approved
+Seroxetine20,Antiviral,Inflammation reduction,"Fatigue, Diarrhea, Blurred vision",Moderate,Rejected
+Amoxdipine18,Antifungal,Bacterial infections,"Fatigue, Insomnia, Dizziness",Moderate,Approved
+Amoxmab17,Antihistamine,Fever reduction,"Nausea, Dizziness, Diarrhea",Mild,Approved
+Amoxzepam62,Antiviral,Allergy relief,"Constipation, Rash",Moderate,Approved
+Rivavir98,Antiviral,Inflammation reduction,Nausea,Moderate,Pending
+Seroprofen62,Antipyretic,Pain relief,"Blurred vision, Rash, Dry mouth",Mild,Pending
+Viravir80,Antiviral,Psychosis control,Dizziness,Moderate,Pending
+Viramab60,Antifungal,Viral infections,"Insomnia, Blurred vision",Severe,Rejected
+Loxocillin18,Antidepressant,Viral infections,Rash,Severe,Rejected
+Serozepam76,Antiviral,Fungal infections,"Dizziness, Diarrhea, Dry mouth",Mild,Pending
+Fenovir79,Antibiotic,Inflammation reduction,"Diarrhea, Blurred vision",Severe,Rejected
+Fenovir13,Antipyretic,Depression treatment,"Fatigue, Diarrhea",Moderate,Approved
+Virastatin46,Anti-inflammatory,Bacterial infections,"Constipation, Nausea, Diarrhea",Mild,Pending
+Seroxetine29,Vaccine,Pain relief,Fatigue,Severe,Rejected
+Daxoparin15,Antipsychotic,Fungal infections,Rash,Mild,Rejected
+Seroprofen43,Antiviral,Pain relief,"Headache, Nausea",Severe,Approved
+Serozepam38,Antidepressant,Fungal infections,Blurred vision,Moderate,Rejected
+Amoxxetine21,Antifungal,Bacterial infections,Dry mouth,Moderate,Approved
+Rivaxetine20,Antihistamine,Pain relief,"Blurred vision, Headache",Severe,Pending
+Cefparin29,Analgesic,Fungal infections,"Insomnia, Dizziness",Severe,Approved
+Fenodipine70,Antibiotic,Psychosis control,"Insomnia, Dizziness",Severe,Rejected
+Virastatin74,Antiviral,Fever reduction,Blurred vision,Moderate,Pending
+Fenozole86,Antifungal,Prevent infectious disease,"Blurred vision, Constipation",Severe,Approved
+Zylovir52,Antiviral,Fever reduction,"Insomnia, Fatigue",Mild,Approved
+Viraparin77,Vaccine,Inflammation reduction,Fatigue,Moderate,Pending
+Viravir99,Antidepressant,Fever reduction,"Dizziness, Rash, Constipation",Severe,Rejected
+Serovir24,Antihistamine,Viral infections,Nausea,Moderate,Approved
+Cefstatin53,Vaccine,Prevent infectious disease,"Fatigue, Blurred vision, Rash",Moderate,Rejected
+Zylomab50,Antiviral,Pain relief,Blurred vision,Moderate,Pending
+Cefdipine11,Analgesic,Allergy relief,"Rash, Dry mouth",Severe,Approved
+Loxoxetine84,Vaccine,Prevent infectious disease,"Nausea, Headache, Rash",Mild,Approved
+Fenodipine81,Vaccine,Psychosis control,Fatigue,Moderate,Rejected
+Serostatin21,Antibiotic,Viral infections,Diarrhea,Severe,Rejected
+Zylodipine53,Antipsychotic,Fever reduction,"Blurred vision, Rash, Dizziness",Severe,Approved
+Rivavir63,Antipsychotic,Psychosis control,Rash,Mild,Approved
+Daxoprofen13,Vaccine,Allergy relief,"Dry mouth, Diarrhea, Rash",Severe,Rejected
+Loxostatin75,Antidepressant,Fungal infections,"Insomnia, Diarrhea, Constipation",Moderate,Rejected
+Cefparin33,Antidepressant,Fever reduction,"Insomnia, Nausea",Severe,Rejected
+Cefzole60,Antiviral,Depression treatment,"Constipation, Dry mouth",Moderate,Approved
+Daxozepam88,Antifungal,Fungal infections,"Dry mouth, Constipation",Severe,Pending
+Zylomab96,Antiviral,Depression treatment,"Diarrhea, Dry mouth",Moderate,Approved
+Rivazepam93,Antibiotic,Inflammation reduction,"Fatigue, Rash",Mild,Approved
+Cefvir20,Vaccine,Inflammation reduction,"Headache, Diarrhea, Dizziness",Severe,Rejected
+Amoxvir78,Vaccine,Psychosis control,"Dry mouth, Headache",Moderate,Pending
+Fenoprofen43,Antipyretic,Prevent infectious disease,"Insomnia, Nausea, Dizziness",Severe,Pending
+Zylocillin11,Anti-inflammatory,Viral infections,"Nausea, Diarrhea, Headache",Severe,Rejected
+Mecoprofen20,Antiviral,Bacterial infections,"Headache, Dizziness, Insomnia",Moderate,Pending
+Serovir51,Vaccine,Fungal infections,"Rash, Dry mouth",Moderate,Pending
+Loxocillin73,Antibiotic,Fungal infections,Rash,Mild,Pending
+Mecozole65,Anti-inflammatory,Allergy relief,Dizziness,Severe,Approved
+Fenoxetine97,Antidepressant,Allergy relief,"Headache, Blurred vision",Moderate,Pending
+Mecomab58,Vaccine,Psychosis control,Headache,Mild,Rejected
+Daxovir65,Antidepressant,Viral infections,Blurred vision,Mild,Rejected
+Mecomab76,Antipsychotic,Psychosis control,Dry mouth,Moderate,Pending
+Cefcillin71,Antipsychotic,Fever reduction,Constipation,Severe,Pending
+Cefdipine49,Antifungal,Pain relief,Blurred vision,Mild,Rejected
+Serodipine73,Antibiotic,Bacterial infections,Diarrhea,Mild,Approved
+Loxostatin99,Vaccine,Allergy relief,"Rash, Headache",Mild,Rejected
+Amoxstatin76,Antifungal,Depression treatment,"Dizziness, Constipation",Moderate,Rejected
+Fenomab61,Antifungal,Fungal infections,Insomnia,Severe,Pending
+Cefparin67,Antipyretic,Viral infections,"Dizziness, Nausea",Severe,Approved
+Loxoparin29,Antihistamine,Prevent infectious disease,"Rash, Constipation",Severe,Rejected
+Daxozole67,Antipyretic,Fever reduction,"Dizziness, Fatigue",Severe,Pending
+Amoxzepam69,Antiviral,Depression treatment,Fatigue,Mild,Approved
+Daxovir48,Antipyretic,Viral infections,"Blurred vision, Nausea",Moderate,Pending
+Viradipine21,Anti-inflammatory,Fever reduction,"Dizziness, Diarrhea, Fatigue",Mild,Pending
+Daxomab45,Analgesic,Bacterial infections,"Fatigue, Dizziness",Severe,Pending
+Fenostatin60,Antibiotic,Depression treatment,Dizziness,Moderate,Approved
+Loxostatin22,Antidepressant,Pain relief,"Fatigue, Nausea",Moderate,Rejected
+Daxodipine10,Antipsychotic,Fever reduction,"Blurred vision, Dry mouth",Moderate,Approved
+Mecomab71,Antibiotic,Depression treatment,Dizziness,Mild,Approved
+Loxostatin46,Antibiotic,Depression treatment,Fatigue,Moderate,Pending
+Virazole57,Antipyretic,Viral infections,Insomnia,Mild,Rejected
+Daxomab17,Antidepressant,Fungal infections,"Dizziness, Dry mouth",Severe,Pending
+Cefcillin70,Antihistamine,Bacterial infections,"Blurred vision, Constipation, Dizziness",Severe,Rejected
+Fenomab20,Antipyretic,Fever reduction,"Constipation, Insomnia, Diarrhea",Severe,Pending
+Cefprofen68,Antipyretic,Pain relief,"Constipation, Fatigue",Severe,Pending
+Viradipine93,Vaccine,Bacterial infections,"Insomnia, Dry mouth, Nausea",Moderate,Rejected
+Seroparin37,Antibiotic,Psychosis control,"Constipation, Fatigue",Severe,Rejected
+Zyloparin56,Anti-inflammatory,Allergy relief,Blurred vision,Mild,Approved
+Daxoprofen91,Antiviral,Prevent infectious disease,"Dizziness, Nausea",Severe,Pending
+Cefxetine57,Antidepressant,Viral infections,"Headache, Dizziness",Severe,Pending
+Viraxetine27,Analgesic,Fever reduction,Constipation,Severe,Rejected
+Loxozepam97,Antiviral,Allergy relief,Insomnia,Severe,Approved
+Mecodipine30,Analgesic,Bacterial infections,"Rash, Dry mouth",Mild,Approved
+Mecomab38,Antipyretic,Bacterial infections,Dizziness,Mild,Rejected
+Viramab24,Antibiotic,Fungal infections,Fatigue,Severe,Approved
+Mecoparin54,Vaccine,Fungal infections,"Fatigue, Insomnia, Constipation",Severe,Rejected
+Mecocillin19,Anti-inflammatory,Fungal infections,"Dizziness, Diarrhea",Moderate,Approved
+Rivaxetine67,Antihistamine,Bacterial infections,"Blurred vision, Constipation",Mild,Rejected
+Cefcillin82,Antifungal,Prevent infectious disease,"Headache, Diarrhea",Mild,Rejected
+Daxovir60,Vaccine,Depression treatment,"Diarrhea, Headache, Blurred vision",Moderate,Approved
+Daxoparin77,Analgesic,Allergy relief,"Blurred vision, Dizziness, Headache",Severe,Approved
+Seroparin88,Antifungal,Prevent infectious disease,Fatigue,Mild,Pending
+Loxozole95,Anti-inflammatory,Viral infections,Constipation,Severe,Pending
+Zyloparin40,Analgesic,Inflammation reduction,"Fatigue, Diarrhea",Mild,Approved
+Loxostatin74,Antidepressant,Psychosis control,"Diarrhea, Constipation",Severe,Pending
+Fenomab23,Antipyretic,Fever reduction,Blurred vision,Severe,Approved
+Zylodipine24,Analgesic,Prevent infectious disease,"Nausea, Headache",Moderate,Rejected
+Loxomab51,Anti-inflammatory,Fungal infections,"Headache, Constipation",Moderate,Pending
+Daxoxetine71,Antipyretic,Fever reduction,"Diarrhea, Insomnia, Fatigue",Moderate,Rejected
+Amoxxetine33,Antipyretic,Allergy relief,"Nausea, Constipation",Moderate,Approved
+Fenoprofen19,Antidepressant,Depression treatment,"Insomnia, Dizziness, Rash",Mild,Rejected
+Amoxstatin15,Antihistamine,Fungal infections,Diarrhea,Severe,Approved
+Zylodipine39,Antihistamine,Depression treatment,"Constipation, Diarrhea",Mild,Rejected
+Rivavir31,Anti-inflammatory,Prevent infectious disease,Constipation,Severe,Pending
+Loxoprofen13,Antidepressant,Fungal infections,"Dry mouth, Headache, Fatigue",Moderate,Approved
+Fenovir60,Antihistamine,Fever reduction,Blurred vision,Severe,Pending
+Rivazepam79,Anti-inflammatory,Bacterial infections,"Dry mouth, Nausea, Fatigue",Severe,Approved
+Cefxetine52,Vaccine,Viral infections,"Insomnia, Rash, Diarrhea",Mild,Pending
+Zyloxetine70,Antihistamine,Bacterial infections,"Diarrhea, Insomnia",Severe,Pending
+Zylocillin93,Antipyretic,Depression treatment,"Blurred vision, Headache, Nausea",Mild,Approved
+Fenozole99,Antipsychotic,Prevent infectious disease,Diarrhea,Mild,Rejected
+Amoxxetine90,Antiviral,Bacterial infections,"Dry mouth, Fatigue, Constipation",Severe,Pending
+Rivaprofen57,Analgesic,Psychosis control,Headache,Mild,Approved
+Mecoparin90,Antipyretic,Allergy relief,Headache,Severe,Rejected
+Amoxprofen78,Vaccine,Fever reduction,"Insomnia, Headache",Moderate,Pending
+Amoxmab24,Antipsychotic,Inflammation reduction,"Insomnia, Dry mouth, Rash",Moderate,Rejected
+Seroparin73,Antipyretic,Allergy relief,Diarrhea,Moderate,Pending
+Zyloprofen15,Antidepressant,Viral infections,"Headache, Insomnia, Diarrhea",Moderate,Approved
+Zylozole10,Antipsychotic,Pain relief,"Insomnia, Dizziness",Severe,Approved
+Mecodipine28,Antifungal,Depression treatment,"Dry mouth, Insomnia",Mild,Approved
+Rivavir88,Antibiotic,Fungal infections,"Fatigue, Rash, Dry mouth",Moderate,Approved
+Fenoxetine35,Antihistamine,Bacterial infections,"Dizziness, Blurred vision, Rash",Mild,Rejected
+Amoxprofen41,Antibiotic,Pain relief,Headache,Mild,Pending
+Loxoxetine13,Analgesic,Pain relief,"Nausea, Dry mouth",Severe,Approved
+Amoxzole99,Antiviral,Inflammation reduction,"Rash, Dizziness, Diarrhea",Mild,Pending
+Daxovir10,Antihistamine,Bacterial infections,"Dry mouth, Fatigue",Severe,Rejected
+Loxoprofen25,Analgesic,Psychosis control,Headache,Mild,Approved
+Cefcillin18,Antihistamine,Inflammation reduction,"Insomnia, Rash",Moderate,Rejected
+Amoxparin70,Antipyretic,Fungal infections,Diarrhea,Severe,Approved
+Mecozepam42,Antidepressant,Bacterial infections,Constipation,Mild,Approved
+Fenomab22,Anti-inflammatory,Fever reduction,Constipation,Severe,Approved
+Daxoprofen48,Antipyretic,Viral infections,Constipation,Severe,Pending
+Virastatin79,Anti-inflammatory,Psychosis control,"Dry mouth, Blurred vision, Rash",Moderate,Approved
+Rivastatin59,Analgesic,Inflammation reduction,"Diarrhea, Insomnia",Mild,Rejected
+Fenocillin86,Antipsychotic,Allergy relief,"Rash, Blurred vision",Severe,Approved
+Loxostatin90,Antibiotic,Pain relief,Insomnia,Moderate,Pending
+Cefzepam74,Antihistamine,Psychosis control,"Constipation, Headache",Moderate,Rejected
+Loxovir20,Antihistamine,Depression treatment,"Constipation, Nausea, Dizziness",Moderate,Approved
+Daxostatin56,Antiviral,Psychosis control,Rash,Moderate,Approved
+Fenocillin61,Antipsychotic,Prevent infectious disease,Diarrhea,Severe,Pending
+Mecozepam56,Antipyretic,Prevent infectious disease,"Diarrhea, Fatigue",Moderate,Pending
+Cefzepam45,Vaccine,Bacterial infections,"Fatigue, Constipation, Dizziness",Mild,Approved
+Zylodipine11,Anti-inflammatory,Fungal infections,"Dry mouth, Dizziness",Severe,Pending
+Zylostatin83,Antidepressant,Depression treatment,"Blurred vision, Insomnia",Mild,Pending
+Zylocillin52,Analgesic,Viral infections,Diarrhea,Severe,Approved
+Viradipine59,Antiviral,Allergy relief,"Nausea, Blurred vision",Severe,Pending
+Amoxstatin72,Antiviral,Depression treatment,"Diarrhea, Constipation, Rash",Severe,Pending
+Daxoprofen38,Antidepressant,Psychosis control,"Fatigue, Dry mouth",Moderate,Rejected
+Viracillin47,Antipsychotic,Prevent infectious disease,"Rash, Nausea, Fatigue",Moderate,Rejected
+Rivaprofen41,Antidepressant,Depression treatment,"Headache, Rash, Diarrhea",Severe,Pending
+Daxovir45,Antipyretic,Allergy relief,Blurred vision,Mild,Rejected
+Viravir69,Antibiotic,Pain relief,"Blurred vision, Dry mouth",Mild,Pending
+Mecomab88,Antipsychotic,Prevent infectious disease,Dry mouth,Severe,Approved
+Viracillin59,Antiviral,Fever reduction,Rash,Severe,Rejected
+Cefcillin89,Anti-inflammatory,Inflammation reduction,Nausea,Moderate,Rejected
+Zylocillin40,Antiviral,Allergy relief,Blurred vision,Moderate,Approved
+Mecodipine68,Antihistamine,Prevent infectious disease,Blurred vision,Severe,Rejected
+Fenoparin59,Analgesic,Fungal infections,Insomnia,Mild,Approved
+Daxozole99,Analgesic,Fever reduction,Constipation,Mild,Approved
+Amoxzepam92,Antibiotic,Bacterial infections,"Insomnia, Constipation, Nausea",Mild,Pending
+Rivazepam47,Antipyretic,Inflammation reduction,"Headache, Rash, Dry mouth",Severe,Rejected
+Daxodipine35,Antibiotic,Psychosis control,"Dizziness, Fatigue",Severe,Pending
+Zylozole54,Antipsychotic,Inflammation reduction,"Dizziness, Diarrhea",Mild,Pending
+Fenoxetine70,Antidepressant,Viral infections,Dry mouth,Severe,Rejected
+Daxocillin27,Antihistamine,Allergy relief,"Fatigue, Dry mouth, Headache",Moderate,Pending
+Loxovir84,Vaccine,Depression treatment,"Rash, Dizziness, Headache",Mild,Rejected
+Amoxzepam17,Antipyretic,Allergy relief,"Fatigue, Dizziness, Blurred vision",Moderate,Pending
+Loxostatin33,Antiviral,Allergy relief,Dizziness,Severe,Approved
+Zylocillin33,Antihistamine,Inflammation reduction,Rash,Severe,Pending
+Viraxetine45,Antibiotic,Viral infections,"Insomnia, Diarrhea",Mild,Rejected
+Fenostatin64,Antibiotic,Fever reduction,"Constipation, Headache",Moderate,Approved
+Cefzepam52,Anti-inflammatory,Depression treatment,"Dizziness, Rash, Fatigue",Severe,Pending
+Serostatin43,Anti-inflammatory,Fever reduction,"Blurred vision, Nausea",Severe,Pending
+Mecoprofen80,Antibiotic,Allergy relief,"Fatigue, Blurred vision",Mild,Pending
+Seroxetine59,Antibiotic,Fungal infections,Fatigue,Severe,Pending
+Cefvir30,Antihistamine,Prevent infectious disease,"Blurred vision, Diarrhea",Mild,Rejected
+Cefprofen16,Antibiotic,Viral infections,"Blurred vision, Diarrhea",Moderate,Approved
+Viramab34,Antidepressant,Allergy relief,"Insomnia, Nausea, Blurred vision",Severe,Approved
+Zylodipine73,Antipyretic,Depression treatment,"Blurred vision, Insomnia, Rash",Mild,Approved
+Rivaprofen90,Anti-inflammatory,Inflammation reduction,"Constipation, Dry mouth, Fatigue",Moderate,Approved
+Cefmab65,Anti-inflammatory,Depression treatment,"Dizziness, Insomnia",Mild,Approved
+Cefstatin56,Antibiotic,Fungal infections,Insomnia,Mild,Approved
+Rivadipine14,Antifungal,Psychosis control,Dizziness,Moderate,Approved
+Amoxcillin24,Antibiotic,Pain relief,"Headache, Constipation, Dizziness",Moderate,Rejected
+Daxoxetine24,Antipyretic,Pain relief,"Nausea, Fatigue",Severe,Approved
+Amoxxetine51,Antibiotic,Allergy relief,Insomnia,Mild,Rejected
+Amoxxetine76,Antibiotic,Allergy relief,"Headache, Fatigue",Moderate,Approved
+Seroxetine27,Analgesic,Depression treatment,Dizziness,Mild,Rejected
+Amoxzole10,Antipyretic,Allergy relief,"Constipation, Nausea",Severe,Pending
+Loxoparin86,Antipsychotic,Allergy relief,"Diarrhea, Dry mouth",Moderate,Rejected
+Cefstatin62,Anti-inflammatory,Depression treatment,"Diarrhea, Nausea",Severe,Rejected
+Fenozole66,Antipyretic,Inflammation reduction,"Blurred vision, Insomnia, Headache",Mild,Rejected
+Rivacillin38,Antihistamine,Pain relief,"Constipation, Headache, Blurred vision",Moderate,Rejected
+Zylovir19,Analgesic,Fungal infections,"Nausea, Diarrhea, Rash",Severe,Rejected
+Amoxstatin18,Vaccine,Allergy relief,"Blurred vision, Diarrhea, Dry mouth",Moderate,Pending
+Seroprofen87,Antibiotic,Fungal infections,"Headache, Nausea",Moderate,Rejected
+Rivamab18,Antipsychotic,Pain relief,"Dizziness, Blurred vision, Diarrhea",Severe,Pending
+Cefdipine27,Analgesic,Inflammation reduction,"Rash, Nausea",Mild,Approved
+Fenozole78,Antiviral,Bacterial infections,Rash,Moderate,Pending
+Rivazole38,Anti-inflammatory,Viral infections,"Constipation, Dry mouth, Headache",Moderate,Approved
+Amoxcillin20,Analgesic,Allergy relief,Insomnia,Moderate,Approved
+Viraprofen22,Antihistamine,Prevent infectious disease,"Fatigue, Insomnia, Rash",Moderate,Rejected
+Daxomab31,Analgesic,Bacterial infections,Fatigue,Mild,Approved
+Seromab51,Antihistamine,Inflammation reduction,Dizziness,Moderate,Approved
+Amoxcillin99,Analgesic,Fungal infections,Fatigue,Mild,Pending
+Mecomab93,Antihistamine,Fever reduction,"Constipation, Rash, Dizziness",Severe,Approved
+Amoxdipine37,Antipyretic,Fungal infections,Dry mouth,Severe,Rejected
+Amoxmab35,Antihistamine,Viral infections,Constipation,Moderate,Pending
+Serostatin90,Antidepressant,Prevent infectious disease,"Dry mouth, Fatigue",Severe,Rejected
+Mecozole13,Analgesic,Bacterial infections,Nausea,Severe,Approved
+Fenocillin12,Antihistamine,Inflammation reduction,"Dry mouth, Headache",Mild,Rejected
+Fenodipine50,Antifungal,Bacterial infections,"Fatigue, Diarrhea, Nausea",Moderate,Pending
+Rivavir24,Antihistamine,Psychosis control,"Rash, Headache",Severe,Pending
+Mecodipine85,Antipyretic,Prevent infectious disease,Diarrhea,Severe,Pending
+Rivastatin65,Antihistamine,Psychosis control,"Dizziness, Dry mouth, Insomnia",Mild,Approved
+Amoxvir48,Antibiotic,Pain relief,"Nausea, Dizziness",Moderate,Rejected
+Serodipine79,Antihistamine,Pain relief,"Constipation, Diarrhea",Moderate,Approved
+Amoxzepam42,Antihistamine,Fungal infections,"Rash, Diarrhea, Nausea",Moderate,Approved
+Amoxvir11,Analgesic,Prevent infectious disease,"Dry mouth, Constipation, Headache",Moderate,Pending
+Fenomab44,Antidepressant,Pain relief,"Insomnia, Constipation, Blurred vision",Moderate,Approved
+Loxoparin11,Antiviral,Inflammation reduction,Insomnia,Moderate,Pending
+Cefvir19,Analgesic,Allergy relief,Diarrhea,Severe,Pending
+Serocillin77,Anti-inflammatory,Allergy relief,"Headache, Constipation",Moderate,Rejected
+Virazepam43,Antibiotic,Pain relief,"Dry mouth, Blurred vision",Moderate,Rejected
+Fenozole72,Antibiotic,Viral infections,"Constipation, Diarrhea",Severe,Rejected
+Fenozepam66,Antibiotic,Psychosis control,"Rash, Headache",Moderate,Rejected
+Loxozepam65,Antipsychotic,Depression treatment,"Rash, Dizziness",Mild,Approved
+Fenoparin68,Antifungal,Viral infections,Blurred vision,Mild,Approved
+Mecoparin51,Antipsychotic,Inflammation reduction,Insomnia,Moderate,Approved
+Virazepam54,Anti-inflammatory,Pain relief,"Insomnia, Rash, Headache",Moderate,Approved
+Mecocillin38,Antibiotic,Depression treatment,"Rash, Constipation",Mild,Rejected
+Serovir13,Antifungal,Fungal infections,"Rash, Dizziness",Severe,Pending
+Rivazole17,Analgesic,Inflammation reduction,"Diarrhea, Constipation, Blurred vision",Severe,Rejected
+Mecocillin73,Vaccine,Allergy relief,"Headache, Constipation",Severe,Pending
+Rivaprofen57,Antiviral,Inflammation reduction,Nausea,Mild,Approved
+Mecozole26,Antipsychotic,Inflammation reduction,"Nausea, Diarrhea, Fatigue",Mild,Pending
+Mecozole64,Antiviral,Depression treatment,"Nausea, Diarrhea",Severe,Pending
+Rivastatin25,Anti-inflammatory,Fungal infections,"Fatigue, Insomnia, Dry mouth",Severe,Approved
+Amoxvir17,Antipsychotic,Viral infections,"Rash, Dizziness",Severe,Pending
+Zyloxetine60,Vaccine,Viral infections,"Nausea, Diarrhea",Severe,Approved
+Amoxzole79,Antipyretic,Fever reduction,Blurred vision,Moderate,Rejected
+Seroprofen54,Analgesic,Prevent infectious disease,"Dry mouth, Diarrhea, Constipation",Severe,Rejected
+Viradipine27,Antidepressant,Inflammation reduction,Diarrhea,Mild,Approved
+Amoxvir90,Antipsychotic,Allergy relief,"Insomnia, Headache",Moderate,Rejected
+Serocillin20,Antidepressant,Viral infections,Dry mouth,Mild,Pending
+Zylomab78,Antihistamine,Bacterial infections,"Dizziness, Blurred vision, Fatigue",Mild,Rejected
+Rivadipine80,Antidepressant,Fungal infections,"Rash, Diarrhea, Fatigue",Moderate,Rejected
+Mecomab56,Antidepressant,Prevent infectious disease,"Headache, Rash, Constipation",Severe,Pending
+Loxodipine79,Antibiotic,Prevent infectious disease,"Dizziness, Dry mouth",Severe,Rejected
+Zylostatin96,Antipyretic,Fungal infections,Headache,Moderate,Pending
+Loxoparin38,Antifungal,Depression treatment,Headache,Severe,Pending
+Viraparin42,Antipyretic,Bacterial infections,Dizziness,Mild,Pending
+Mecoxetine84,Antidepressant,Psychosis control,"Dry mouth, Diarrhea",Severe,Pending
+Zylozepam93,Anti-inflammatory,Psychosis control,"Headache, Nausea, Rash",Severe,Pending
+Daxozole90,Antifungal,Inflammation reduction,"Insomnia, Dizziness",Severe,Rejected
+Mecomab93,Antiviral,Inflammation reduction,"Fatigue, Rash",Moderate,Rejected
+Zylozole90,Anti-inflammatory,Fungal infections,"Fatigue, Rash, Dizziness",Moderate,Rejected
+Cefmab30,Antipyretic,Psychosis control,Dizziness,Severe,Approved
+Fenozepam87,Antihistamine,Pain relief,Insomnia,Mild,Rejected
+Serocillin53,Antibiotic,Prevent infectious disease,"Insomnia, Rash, Constipation",Mild,Pending
+Daxodipine57,Antipsychotic,Bacterial infections,"Diarrhea, Fatigue",Severe,Pending
+Virastatin66,Antidepressant,Inflammation reduction,"Diarrhea, Dizziness, Nausea",Moderate,Approved
+Mecostatin24,Antibiotic,Viral infections,"Diarrhea, Constipation",Severe,Rejected
+Daxozole69,Antipyretic,Fever reduction,"Rash, Constipation",Severe,Approved
+Fenodipine58,Antibiotic,Fungal infections,Insomnia,Moderate,Approved
+Daxozole63,Analgesic,Viral infections,"Blurred vision, Dizziness, Diarrhea",Moderate,Pending
+Loxomab60,Analgesic,Inflammation reduction,"Insomnia, Nausea",Mild,Rejected
+Amoxvir42,Antihistamine,Pain relief,"Blurred vision, Dizziness, Rash",Moderate,Pending
+Mecostatin52,Antifungal,Allergy relief,"Dry mouth, Blurred vision",Mild,Approved
+Cefprofen77,Anti-inflammatory,Allergy relief,"Diarrhea, Constipation, Rash",Moderate,Rejected
+Fenozole21,Antipyretic,Pain relief,"Blurred vision, Constipation, Insomnia",Mild,Rejected
+Virastatin87,Antipyretic,Depression treatment,Diarrhea,Severe,Approved
+Viradipine12,Anti-inflammatory,Pain relief,"Constipation, Nausea",Mild,Approved
+Loxozole27,Analgesic,Prevent infectious disease,"Fatigue, Dizziness",Moderate,Pending
+Viradipine98,Antidepressant,Pain relief,"Dizziness, Diarrhea",Mild,Pending
+Mecoprofen38,Antiviral,Inflammation reduction,Rash,Severe,Rejected
+Loxozole67,Vaccine,Fever reduction,Dizziness,Severe,Pending
+Mecostatin80,Antihistamine,Bacterial infections,"Diarrhea, Headache, Nausea",Mild,Approved
+Loxodipine37,Antihistamine,Fever reduction,"Headache, Fatigue, Rash",Severe,Rejected
+Loxoxetine28,Anti-inflammatory,Bacterial infections,"Blurred vision, Fatigue, Diarrhea",Mild,Pending
+Daxozole19,Antipsychotic,Viral infections,"Dry mouth, Fatigue",Moderate,Rejected
+Cefstatin99,Vaccine,Bacterial infections,"Headache, Rash",Moderate,Rejected
+Zylodipine70,Antihistamine,Depression treatment,Headache,Mild,Rejected
+Amoxzole72,Anti-inflammatory,Depression treatment,Fatigue,Mild,Rejected
+Zylodipine64,Vaccine,Prevent infectious disease,"Fatigue, Dry mouth",Severe,Rejected
+Rivadipine84,Antipsychotic,Depression treatment,"Headache, Dizziness, Blurred vision",Moderate,Approved
+Serozole18,Antifungal,Inflammation reduction,Dry mouth,Mild,Approved
+Cefmab82,Antipsychotic,Prevent infectious disease,"Headache, Dry mouth, Constipation",Severe,Pending
+Viraxetine30,Antiviral,Fever reduction,"Nausea, Constipation",Severe,Approved
+Fenovir93,Antihistamine,Bacterial infections,"Dry mouth, Constipation",Moderate,Approved
+Cefstatin26,Antipyretic,Psychosis control,Rash,Moderate,Pending
+Cefzepam33,Anti-inflammatory,Allergy relief,"Fatigue, Diarrhea",Mild,Approved
+Zylostatin37,Anti-inflammatory,Viral infections,Dry mouth,Moderate,Approved
+Amoxparin20,Antifungal,Pain relief,"Rash, Nausea",Severe,Pending
+Viraprofen98,Antipsychotic,Viral infections,"Insomnia, Nausea, Headache",Severe,Pending
+Fenomab34,Antihistamine,Fever reduction,"Nausea, Fatigue, Constipation",Severe,Rejected
+Mecozepam22,Antidepressant,Psychosis control,"Nausea, Headache",Moderate,Rejected
+Mecoprofen12,Antipyretic,Bacterial infections,"Dry mouth, Headache, Dizziness",Severe,Pending
+Rivastatin94,Antipyretic,Depression treatment,"Dry mouth, Diarrhea",Mild,Rejected
+Zyloprofen91,Analgesic,Pain relief,"Fatigue, Diarrhea",Severe,Pending
+Seroprofen32,Antibiotic,Bacterial infections,Insomnia,Mild,Rejected
+Virazepam82,Antipyretic,Inflammation reduction,"Blurred vision, Fatigue",Mild,Pending
+Cefzepam39,Antihistamine,Fungal infections,Constipation,Moderate,Approved
+Viramab47,Antipsychotic,Allergy relief,"Rash, Fatigue",Severe,Rejected
+Serodipine14,Antiviral,Fungal infections,"Blurred vision, Fatigue",Mild,Pending
+Daxodipine39,Antiviral,Fungal infections,"Nausea, Dizziness",Moderate,Approved
+Zylocillin37,Antidepressant,Psychosis control,Dry mouth,Severe,Pending
+Mecovir27,Analgesic,Depression treatment,Blurred vision,Moderate,Pending
+Loxoxetine82,Anti-inflammatory,Psychosis control,"Headache, Insomnia, Dizziness",Moderate,Rejected
+Daxozole55,Anti-inflammatory,Fever reduction,"Fatigue, Dizziness",Mild,Rejected
+Daxoparin16,Antidepressant,Inflammation reduction,"Nausea, Diarrhea, Insomnia",Severe,Rejected
+Fenostatin75,Vaccine,Viral infections,Dizziness,Moderate,Pending
+Rivastatin63,Vaccine,Pain relief,Fatigue,Mild,Pending
+Daxozole29,Anti-inflammatory,Inflammation reduction,"Constipation, Rash",Moderate,Rejected
+Rivacillin79,Vaccine,Fever reduction,"Dry mouth, Headache",Mild,Approved
+Serozole10,Antifungal,Inflammation reduction,"Insomnia, Constipation",Moderate,Rejected
+Serodipine86,Antipsychotic,Viral infections,"Nausea, Dry mouth",Moderate,Rejected
+Cefprofen77,Antipyretic,Pain relief,Headache,Mild,Approved
+Cefzepam40,Antipsychotic,Bacterial infections,Dizziness,Mild,Rejected
+Mecozole80,Anti-inflammatory,Inflammation reduction,"Insomnia, Nausea",Moderate,Rejected
+Daxoprofen19,Antihistamine,Pain relief,"Dizziness, Constipation, Diarrhea",Severe,Pending
+Zylovir68,Antipyretic,Allergy relief,Blurred vision,Severe,Rejected
+Amoxzepam66,Antipyretic,Fungal infections,"Dizziness, Insomnia",Moderate,Pending
+Cefmab35,Antifungal,Psychosis control,"Headache, Dry mouth",Moderate,Rejected
+Daxocillin76,Antiviral,Depression treatment,Fatigue,Severe,Rejected
+Daxomab47,Antifungal,Bacterial infections,"Diarrhea, Dizziness",Moderate,Pending
+Viradipine83,Antifungal,Psychosis control,"Fatigue, Blurred vision",Mild,Rejected
+Loxoparin53,Antidepressant,Allergy relief,Blurred vision,Moderate,Pending
+Zylozole55,Antihistamine,Inflammation reduction,"Fatigue, Blurred vision, Constipation",Severe,Rejected
+Cefdipine66,Anti-inflammatory,Depression treatment,"Nausea, Diarrhea",Severe,Pending
+Fenodipine59,Vaccine,Fever reduction,"Headache, Diarrhea",Severe,Rejected
+Loxomab12,Antidepressant,Inflammation reduction,"Nausea, Insomnia",Mild,Rejected
+Virastatin68,Antiviral,Bacterial infections,"Blurred vision, Diarrhea, Fatigue",Moderate,Pending
+Viracillin53,Antipsychotic,Depression treatment,"Dizziness, Rash, Fatigue",Severe,Rejected
+Rivacillin17,Antifungal,Allergy relief,Headache,Mild,Rejected
+Zyloparin67,Antibiotic,Depression treatment,"Fatigue, Nausea, Diarrhea",Mild,Pending
+Cefdipine33,Antipsychotic,Pain relief,"Blurred vision, Dizziness",Severe,Pending
+Daxostatin60,Antipsychotic,Depression treatment,"Dizziness, Nausea",Mild,Approved
+Seroxetine47,Vaccine,Fungal infections,Fatigue,Moderate,Pending
+Fenodipine90,Analgesic,Pain relief,"Diarrhea, Headache, Constipation",Moderate,Approved
+Mecodipine96,Anti-inflammatory,Pain relief,"Blurred vision, Nausea",Moderate,Pending
+Fenozole12,Antihistamine,Fungal infections,"Headache, Dizziness, Diarrhea",Moderate,Rejected
+Zylozepam69,Anti-inflammatory,Bacterial infections,"Rash, Nausea",Moderate,Rejected
+Fenozepam72,Anti-inflammatory,Viral infections,"Fatigue, Rash, Insomnia",Mild,Pending
+Serostatin49,Antiviral,Bacterial infections,"Rash, Dizziness",Mild,Rejected
+Mecoparin46,Anti-inflammatory,Fever reduction,Nausea,Moderate,Rejected
+Fenovir55,Antifungal,Fever reduction,"Nausea, Dry mouth",Moderate,Pending
+Rivazepam43,Antipyretic,Inflammation reduction,Fatigue,Severe,Pending
+Daxozepam62,Anti-inflammatory,Inflammation reduction,"Fatigue, Nausea",Severe,Rejected
+Viradipine30,Vaccine,Prevent infectious disease,"Dry mouth, Insomnia, Diarrhea",Moderate,Approved
+Zylomab45,Antidepressant,Psychosis control,"Dry mouth, Fatigue, Blurred vision",Severe,Pending
+Rivavir52,Analgesic,Depression treatment,Headache,Moderate,Approved
+Zylozole39,Antibiotic,Psychosis control,"Dry mouth, Nausea",Mild,Approved
+Cefzole24,Antifungal,Inflammation reduction,Diarrhea,Mild,Approved
+Amoxstatin17,Antihistamine,Inflammation reduction,Nausea,Mild,Pending
+Daxoxetine56,Antihistamine,Fever reduction,Fatigue,Severe,Rejected
+Cefcillin92,Antibiotic,Fungal infections,"Rash, Nausea, Fatigue",Moderate,Approved
+Fenovir28,Antipyretic,Psychosis control,"Blurred vision, Diarrhea",Moderate,Approved
+Viraxetine19,Antifungal,Prevent infectious disease,Rash,Mild,Approved
+Amoxvir87,Antidepressant,Pain relief,Dizziness,Severe,Rejected
+Daxostatin28,Antipsychotic,Fungal infections,"Headache, Insomnia",Moderate,Approved
+Loxoxetine57,Analgesic,Pain relief,Insomnia,Severe,Pending
+Cefcillin66,Antidepressant,Viral infections,Blurred vision,Severe,Approved
+Amoxmab92,Antibiotic,Viral infections,Constipation,Severe,Approved
+Mecoprofen57,Antihistamine,Prevent infectious disease,Dizziness,Severe,Pending
+Loxoprofen22,Antifungal,Fever reduction,"Blurred vision, Rash, Dry mouth",Moderate,Pending
+Rivazepam51,Vaccine,Bacterial infections,Diarrhea,Mild,Pending
+Cefprofen87,Antifungal,Viral infections,"Dry mouth, Insomnia, Fatigue",Severe,Pending
+Cefcillin76,Antipsychotic,Fungal infections,"Rash, Diarrhea",Mild,Rejected
+Viraprofen97,Antibiotic,Inflammation reduction,Insomnia,Moderate,Rejected
+Rivaprofen26,Antiviral,Prevent infectious disease,"Blurred vision, Rash",Severe,Pending
+Fenovir13,Antidepressant,Depression treatment,"Dry mouth, Fatigue, Dizziness",Severe,Approved
+Fenoparin73,Antipyretic,Fever reduction,"Headache, Rash",Moderate,Pending
+Daxovir25,Antihistamine,Pain relief,Insomnia,Mild,Approved
+Fenozepam59,Antihistamine,Pain relief,"Fatigue, Nausea, Headache",Moderate,Approved
+Fenomab98,Antipsychotic,Prevent infectious disease,"Diarrhea, Insomnia, Dry mouth",Severe,Pending
+Mecoxetine40,Antibiotic,Psychosis control,"Blurred vision, Diarrhea",Moderate,Pending
+Fenovir47,Antihistamine,Bacterial infections,"Diarrhea, Dizziness, Headache",Moderate,Rejected
+Zylozepam82,Antibiotic,Fungal infections,"Fatigue, Nausea, Rash",Mild,Pending
+Amoxdipine16,Antihistamine,Prevent infectious disease,Rash,Moderate,Rejected
+Rivacillin18,Analgesic,Viral infections,Diarrhea,Severe,Approved
+Mecoparin60,Antipyretic,Fungal infections,"Fatigue, Rash",Moderate,Rejected
+Amoxparin58,Antibiotic,Inflammation reduction,Blurred vision,Moderate,Pending
+Loxovir85,Antidepressant,Prevent infectious disease,Dry mouth,Mild,Pending
+Fenomab83,Antihistamine,Prevent infectious disease,Insomnia,Mild,Approved
+Daxodipine62,Vaccine,Psychosis control,"Headache, Insomnia, Constipation",Severe,Pending
+Mecozole43,Antidepressant,Inflammation reduction,Insomnia,Mild,Approved
+Daxostatin18,Anti-inflammatory,Psychosis control,Headache,Moderate,Approved
+Rivaparin13,Antibiotic,Fungal infections,"Fatigue, Dry mouth",Mild,Approved
+Rivaxetine77,Antidepressant,Pain relief,Constipation,Severe,Pending
+Zyloxetine98,Antifungal,Depression treatment,"Insomnia, Headache, Dizziness",Mild,Rejected
+Rivastatin62,Anti-inflammatory,Inflammation reduction,Constipation,Moderate,Approved
+Rivaxetine11,Antibiotic,Depression treatment,"Diarrhea, Headache",Severe,Rejected
+Zyloprofen77,Antipsychotic,Prevent infectious disease,"Fatigue, Dry mouth, Rash",Moderate,Approved
+Rivastatin76,Antidepressant,Inflammation reduction,"Insomnia, Nausea",Severe,Rejected
+Cefvir57,Analgesic,Fever reduction,"Diarrhea, Dizziness",Severe,Approved
+Loxocillin32,Antifungal,Prevent infectious disease,"Rash, Dry mouth",Mild,Approved
+Viraparin98,Antipsychotic,Fungal infections,"Headache, Insomnia, Rash",Moderate,Rejected
+Daxodipine55,Anti-inflammatory,Fungal infections,"Dry mouth, Headache, Rash",Mild,Pending
+Loxodipine53,Antiviral,Psychosis control,Dry mouth,Severe,Approved
+Loxomab10,Antipyretic,Inflammation reduction,Diarrhea,Mild,Pending
+Zylocillin56,Anti-inflammatory,Viral infections,"Headache, Blurred vision, Dizziness",Mild,Approved
+Fenoxetine22,Analgesic,Viral infections,"Nausea, Dry mouth",Severe,Rejected
+Cefvir94,Antipsychotic,Allergy relief,"Fatigue, Diarrhea, Rash",Moderate,Approved
+Mecoparin96,Antibiotic,Psychosis control,"Dry mouth, Nausea, Headache",Moderate,Rejected
+Daxodipine26,Antipsychotic,Allergy relief,Headache,Moderate,Rejected
+Rivastatin10,Antifungal,Prevent infectious disease,"Dry mouth, Rash, Blurred vision",Moderate,Pending
+Fenozole69,Antifungal,Allergy relief,"Insomnia, Constipation, Nausea",Severe,Approved
+Amoxzole90,Analgesic,Depression treatment,Headache,Severe,Rejected
+Fenovir48,Antipsychotic,Prevent infectious disease,"Diarrhea, Blurred vision",Moderate,Pending
+Zylodipine29,Antihistamine,Fungal infections,"Headache, Diarrhea",Moderate,Pending
+Fenomab49,Antibiotic,Pain relief,"Insomnia, Dry mouth",Moderate,Pending
+Amoxvir76,Antiviral,Fever reduction,"Diarrhea, Rash, Constipation",Moderate,Approved
+Fenoxetine90,Antifungal,Viral infections,"Rash, Headache, Blurred vision",Moderate,Pending
+Fenozole50,Analgesic,Pain relief,Blurred vision,Mild,Rejected
+Mecostatin40,Vaccine,Depression treatment,"Dizziness, Constipation",Mild,Approved
+Viraparin94,Analgesic,Viral infections,"Fatigue, Insomnia, Blurred vision",Mild,Rejected
+Viradipine57,Antihistamine,Bacterial infections,"Dizziness, Rash",Moderate,Rejected
+Loxozole77,Antipsychotic,Inflammation reduction,Fatigue,Moderate,Rejected
+Loxomab17,Vaccine,Inflammation reduction,"Diarrhea, Blurred vision",Severe,Approved
+Virastatin68,Analgesic,Depression treatment,"Insomnia, Dry mouth, Headache",Severe,Approved
+Loxozole87,Antidepressant,Inflammation reduction,Blurred vision,Mild,Pending
+Daxodipine97,Antiviral,Depression treatment,Constipation,Moderate,Rejected
+Rivamab71,Vaccine,Viral infections,"Insomnia, Dry mouth",Mild,Rejected
+Rivazole11,Vaccine,Prevent infectious disease,"Insomnia, Dizziness, Blurred vision",Moderate,Pending
+Amoxzepam43,Anti-inflammatory,Fever reduction,Insomnia,Mild,Pending
+Mecoxetine73,Antifungal,Viral infections,"Rash, Constipation, Dizziness",Severe,Pending
+Serozepam55,Anti-inflammatory,Fever reduction,"Rash, Dry mouth",Moderate,Pending
+Loxozole76,Vaccine,Depression treatment,Blurred vision,Mild,Pending
+Loxoprofen19,Anti-inflammatory,Psychosis control,Headache,Mild,Approved
+Daxomab78,Antifungal,Prevent infectious disease,"Constipation, Dry mouth, Insomnia",Severe,Approved
+Daxoxetine82,Vaccine,Pain relief,"Diarrhea, Constipation",Severe,Pending
+Daxocillin14,Antipyretic,Allergy relief,"Blurred vision, Headache",Mild,Pending
+Zylocillin63,Antipsychotic,Bacterial infections,Constipation,Moderate,Rejected
+Virastatin84,Antidepressant,Inflammation reduction,"Blurred vision, Dry mouth",Moderate,Approved
+Serovir99,Antifungal,Psychosis control,"Dizziness, Blurred vision",Mild,Approved
+Mecovir40,Anti-inflammatory,Allergy relief,Fatigue,Moderate,Pending
+Rivadipine19,Antibiotic,Viral infections,"Rash, Dry mouth, Dizziness",Mild,Rejected
+Amoxzepam22,Analgesic,Allergy relief,Dry mouth,Severe,Pending
+Daxozepam62,Antihistamine,Pain relief,"Nausea, Dry mouth, Insomnia",Mild,Approved
+Daxovir88,Antihistamine,Psychosis control,"Blurred vision, Insomnia",Severe,Rejected
+Fenocillin72,Antihistamine,Bacterial infections,Blurred vision,Moderate,Rejected
+Rivacillin98,Antiviral,Psychosis control,Constipation,Moderate,Rejected
+Cefmab34,Antidepressant,Viral infections,"Headache, Diarrhea, Fatigue",Mild,Approved
+Cefprofen90,Antipsychotic,Prevent infectious disease,Dry mouth,Severe,Pending
+Loxoparin17,Antiviral,Bacterial infections,"Fatigue, Blurred vision",Mild,Approved
+Amoxstatin72,Antidepressant,Allergy relief,"Rash, Diarrhea",Severe,Approved
+Amoxvir24,Anti-inflammatory,Bacterial infections,"Nausea, Rash",Moderate,Approved
+Rivaxetine31,Antiviral,Fungal infections,"Headache, Dry mouth",Severe,Approved
+Serozole56,Antipsychotic,Pain relief,"Rash, Nausea",Severe,Pending
+Fenozole20,Antifungal,Allergy relief,"Dry mouth, Insomnia, Constipation",Severe,Pending
+Viravir42,Vaccine,Prevent infectious disease,"Nausea, Blurred vision",Moderate,Approved
+Daxoprofen83,Analgesic,Fungal infections,Constipation,Mild,Approved
+Fenozole65,Anti-inflammatory,Depression treatment,"Headache, Dry mouth",Moderate,Pending
+Amoxzepam47,Vaccine,Depression treatment,Insomnia,Mild,Rejected
+Rivaprofen69,Analgesic,Prevent infectious disease,"Fatigue, Rash",Moderate,Pending
+Rivaparin39,Antihistamine,Viral infections,"Diarrhea, Nausea",Mild,Rejected
+Daxozole15,Antipyretic,Viral infections,Diarrhea,Severe,Pending
+Virazole38,Anti-inflammatory,Pain relief,"Nausea, Blurred vision, Rash",Moderate,Approved
+Fenoprofen42,Vaccine,Fever reduction,"Fatigue, Rash, Headache",Severe,Approved
+Mecomab85,Antiviral,Viral infections,Dizziness,Severe,Approved
+Serostatin70,Analgesic,Inflammation reduction,"Blurred vision, Constipation, Insomnia",Severe,Rejected
+Viravir99,Antifungal,Inflammation reduction,Headache,Moderate,Approved
+Daxomab63,Analgesic,Bacterial infections,"Dizziness, Blurred vision",Mild,Pending
+Serovir92,Vaccine,Allergy relief,"Insomnia, Diarrhea",Moderate,Rejected
+Viraparin82,Vaccine,Pain relief,"Dry mouth, Constipation",Severe,Approved
+Daxocillin84,Anti-inflammatory,Fungal infections,Rash,Moderate,Rejected
+Cefprofen74,Antidepressant,Pain relief,Rash,Moderate,Pending
+Virazole97,Antifungal,Fungal infections,"Dizziness, Nausea, Rash",Severe,Pending
+Serodipine28,Antifungal,Depression treatment,"Nausea, Dry mouth",Moderate,Rejected
+Loxomab52,Antibiotic,Psychosis control,"Nausea, Fatigue",Severe,Rejected
+Amoxvir73,Analgesic,Inflammation reduction,"Constipation, Headache, Dizziness",Mild,Pending
+Amoxzepam75,Antiviral,Depression treatment,"Rash, Diarrhea, Dry mouth",Mild,Pending
+Loxocillin12,Antiviral,Fungal infections,"Dry mouth, Nausea, Headache",Moderate,Rejected
+Rivacillin44,Antidepressant,Fever reduction,"Headache, Insomnia, Nausea",Mild,Pending
+Fenoprofen41,Antipsychotic,Inflammation reduction,Dizziness,Moderate,Rejected
+Loxodipine66,Anti-inflammatory,Prevent infectious disease,"Headache, Diarrhea, Insomnia",Mild,Approved
+Rivadipine74,Vaccine,Inflammation reduction,Blurred vision,Moderate,Rejected
+Virazole83,Antihistamine,Depression treatment,Blurred vision,Moderate,Rejected
+Virazepam74,Analgesic,Bacterial infections,"Dry mouth, Nausea, Insomnia",Moderate,Rejected
+Loxoxetine35,Antibiotic,Fever reduction,Constipation,Mild,Rejected
+Seroprofen86,Antihistamine,Psychosis control,"Dry mouth, Blurred vision",Moderate,Rejected
+Viraxetine61,Analgesic,Prevent infectious disease,Insomnia,Moderate,Approved
+Cefstatin50,Antibiotic,Prevent infectious disease,"Constipation, Nausea, Rash",Moderate,Approved
+Rivavir39,Antipsychotic,Pain relief,Blurred vision,Moderate,Pending
+Amoxxetine18,Antihistamine,Fungal infections,"Constipation, Diarrhea",Severe,Pending
+Zylocillin95,Antidepressant,Fever reduction,Rash,Moderate,Pending
+Serodipine79,Vaccine,Allergy relief,"Dizziness, Blurred vision, Dry mouth",Severe,Approved
+Cefprofen62,Anti-inflammatory,Psychosis control,"Blurred vision, Dizziness, Headache",Moderate,Pending
+Daxozole56,Analgesic,Psychosis control,"Blurred vision, Dry mouth, Insomnia",Severe,Approved
+Serodipine83,Antifungal,Pain relief,"Fatigue, Insomnia, Blurred vision",Mild,Pending
+Seroparin21,Antihistamine,Fever reduction,Dry mouth,Severe,Rejected
+Fenoxetine29,Antihistamine,Allergy relief,"Blurred vision, Fatigue, Headache",Mild,Pending
+Rivavir50,Antifungal,Viral infections,"Blurred vision, Diarrhea, Dizziness",Mild,Rejected
+Zylozepam22,Antihistamine,Bacterial infections,"Nausea, Diarrhea",Severe,Approved
+Mecostatin10,Antifungal,Fungal infections,Headache,Severe,Pending
+Cefstatin50,Antifungal,Psychosis control,"Fatigue, Dizziness",Moderate,Pending
+Viraprofen40,Antihistamine,Pain relief,Nausea,Severe,Approved
+Fenoparin31,Antihistamine,Allergy relief,"Dizziness, Dry mouth",Moderate,Approved
+Serozepam27,Analgesic,Depression treatment,"Dry mouth, Fatigue",Severe,Pending
+Seroprofen42,Antipyretic,Pain relief,"Nausea, Constipation",Moderate,Approved
+Fenoparin44,Anti-inflammatory,Pain relief,Fatigue,Mild,Pending
+Rivamab24,Vaccine,Inflammation reduction,Fatigue,Mild,Approved
+Zylodipine68,Antihistamine,Psychosis control,"Diarrhea, Fatigue, Blurred vision",Mild,Approved
+Cefzepam61,Antipsychotic,Prevent infectious disease,"Nausea, Constipation",Mild,Rejected
+Serozole37,Antipyretic,Pain relief,"Blurred vision, Headache",Mild,Rejected
+Amoxcillin91,Antibiotic,Inflammation reduction,"Insomnia, Constipation",Severe,Approved
+Viradipine53,Antipsychotic,Allergy relief,Constipation,Moderate,Pending
+Serodipine17,Antipyretic,Inflammation reduction,"Dizziness, Fatigue, Headache",Severe,Pending
+Virazole87,Antibiotic,Viral infections,Insomnia,Mild,Pending
+Daxoprofen96,Vaccine,Allergy relief,"Constipation, Dry mouth",Mild,Approved
+Mecomab15,Antibiotic,Psychosis control,"Dry mouth, Dizziness",Severe,Rejected
+Viradipine36,Analgesic,Fever reduction,"Constipation, Dry mouth, Blurred vision",Moderate,Approved
+Viraprofen97,Antifungal,Fungal infections,"Diarrhea, Insomnia, Constipation",Severe,Rejected
+Mecomab61,Antibiotic,Pain relief,"Fatigue, Headache, Constipation",Moderate,Approved
+Fenocillin92,Anti-inflammatory,Fungal infections,"Headache, Constipation",Moderate,Approved
+Daxostatin87,Antipsychotic,Psychosis control,"Headache, Fatigue",Moderate,Pending
+Amoxmab62,Vaccine,Depression treatment,"Diarrhea, Constipation",Moderate,Pending
+Daxoxetine37,Antipyretic,Psychosis control,Insomnia,Moderate,Pending
+Viradipine72,Antibiotic,Viral infections,"Dizziness, Rash, Fatigue",Severe,Rejected
+Mecostatin66,Anti-inflammatory,Prevent infectious disease,"Dry mouth, Insomnia, Headache",Severe,Rejected
+Mecoparin77,Antiviral,Psychosis control,"Constipation, Headache",Mild,Approved
+Fenozole11,Antihistamine,Fever reduction,Nausea,Moderate,Pending
+Cefmab61,Antidepressant,Allergy relief,"Rash, Dry mouth",Moderate,Rejected
+Daxodipine69,Antifungal,Pain relief,"Headache, Constipation, Rash",Moderate,Pending
+Loxoparin65,Antidepressant,Fungal infections,"Rash, Fatigue, Insomnia",Moderate,Pending
+Serozole50,Anti-inflammatory,Bacterial infections,"Rash, Diarrhea",Moderate,Pending
+Viradipine63,Anti-inflammatory,Allergy relief,"Diarrhea, Constipation",Mild,Approved
+Amoxxetine55,Vaccine,Psychosis control,"Blurred vision, Insomnia, Headache",Severe,Approved
+Amoxzole35,Analgesic,Psychosis control,"Constipation, Insomnia, Dry mouth",Severe,Pending
+Amoxvir66,Antifungal,Bacterial infections,"Dizziness, Headache",Mild,Rejected
+Seroprofen81,Antipyretic,Fungal infections,"Insomnia, Dizziness, Headache",Moderate,Pending
+Loxostatin36,Antibiotic,Fungal infections,"Fatigue, Rash, Dizziness",Mild,Pending
+Serozepam64,Antihistamine,Viral infections,"Nausea, Dry mouth, Diarrhea",Severe,Approved
+Rivadipine26,Vaccine,Viral infections,"Blurred vision, Headache, Constipation",Mild,Approved
+Daxozepam23,Antifungal,Prevent infectious disease,"Blurred vision, Headache",Moderate,Approved
+Mecozole26,Antihistamine,Depression treatment,"Diarrhea, Headache, Constipation",Mild,Rejected
+Daxomab19,Antipyretic,Allergy relief,"Dry mouth, Nausea, Rash",Moderate,Rejected
+Zyloparin59,Analgesic,Fever reduction,"Headache, Rash",Moderate,Approved
+Daxodipine45,Antiviral,Pain relief,Constipation,Moderate,Approved
+Serostatin44,Antifungal,Fungal infections,"Blurred vision, Dizziness, Insomnia",Moderate,Approved
+Serozole45,Vaccine,Fungal infections,"Rash, Fatigue, Nausea",Moderate,Pending
+Loxovir10,Vaccine,Fungal infections,"Constipation, Headache",Moderate,Approved
+Cefstatin52,Analgesic,Fever reduction,"Blurred vision, Dry mouth, Insomnia",Mild,Rejected
+Amoxxetine35,Antifungal,Inflammation reduction,"Fatigue, Insomnia, Nausea",Moderate,Rejected
+Mecocillin92,Antipyretic,Fungal infections,"Fatigue, Rash",Mild,Approved
+Amoxxetine82,Antiviral,Fungal infections,"Headache, Blurred vision, Diarrhea",Moderate,Pending
+Zyloprofen34,Antidepressant,Prevent infectious disease,Constipation,Moderate,Rejected
+Daxoxetine89,Antibiotic,Bacterial infections,"Nausea, Dry mouth, Fatigue",Severe,Approved
+Zylodipine63,Antipyretic,Prevent infectious disease,Nausea,Moderate,Rejected
+Amoxstatin74,Antidepressant,Depression treatment,"Insomnia, Diarrhea",Severe,Pending
+Loxoparin30,Antipsychotic,Inflammation reduction,"Rash, Dizziness, Insomnia",Severe,Approved
+Zylovir57,Antihistamine,Fungal infections,"Dry mouth, Blurred vision",Moderate,Rejected
+Fenoxetine40,Antifungal,Bacterial infections,Blurred vision,Severe,Rejected
+Fenovir72,Antihistamine,Bacterial infections,"Dry mouth, Rash",Moderate,Pending
+Cefxetine56,Antifungal,Inflammation reduction,"Rash, Headache, Dizziness",Mild,Pending
+Mecovir53,Vaccine,Allergy relief,"Blurred vision, Fatigue, Constipation",Mild,Rejected
+Loxomab41,Antifungal,Bacterial infections,Blurred vision,Moderate,Rejected
+Fenomab14,Antiviral,Allergy relief,"Dry mouth, Nausea, Headache",Severe,Pending
+Fenozepam19,Antipyretic,Depression treatment,"Headache, Fatigue",Moderate,Rejected
+Zylodipine95,Anti-inflammatory,Fever reduction,"Insomnia, Rash, Nausea",Mild,Approved
+Amoxstatin49,Antidepressant,Viral infections,Headache,Severe,Rejected
+Zyloprofen54,Antipsychotic,Inflammation reduction,"Rash, Fatigue",Severe,Rejected
+Cefxetine98,Antipyretic,Bacterial infections,"Fatigue, Headache, Rash",Severe,Approved
+Fenoxetine11,Antipsychotic,Depression treatment,Rash,Severe,Pending
+Daxovir80,Anti-inflammatory,Prevent infectious disease,Insomnia,Mild,Approved
+Daxostatin41,Antidepressant,Pain relief,Constipation,Severe,Rejected
+Daxozepam97,Antidepressant,Psychosis control,"Insomnia, Nausea, Rash",Severe,Approved
+Daxoparin13,Antifungal,Depression treatment,"Rash, Nausea, Diarrhea",Mild,Approved
+Cefparin24,Anti-inflammatory,Fungal infections,"Nausea, Dizziness",Severe,Approved
+Rivazole65,Vaccine,Depression treatment,Rash,Mild,Pending
+Loxozepam66,Antipsychotic,Fungal infections,Constipation,Moderate,Approved
+Rivazepam22,Antibiotic,Prevent infectious disease,Diarrhea,Moderate,Pending
+Fenovir72,Antidepressant,Prevent infectious disease,Headache,Severe,Pending
+Loxoparin10,Antidepressant,Depression treatment,"Headache, Dry mouth",Mild,Pending
+Mecodipine70,Antiviral,Allergy relief,"Dizziness, Headache",Mild,Pending
+Serocillin73,Antidepressant,Allergy relief,"Insomnia, Constipation, Headache",Moderate,Rejected
+Mecocillin38,Analgesic,Fungal infections,"Nausea, Headache",Mild,Approved
+Fenocillin31,Antibiotic,Bacterial infections,"Insomnia, Constipation",Mild,Pending
+Serostatin52,Antipyretic,Fever reduction,Diarrhea,Mild,Rejected
+Rivamab29,Antibiotic,Psychosis control,"Nausea, Rash, Insomnia",Mild,Rejected
+Rivaprofen19,Antifungal,Bacterial infections,"Blurred vision, Nausea",Severe,Rejected
+Daxomab26,Antipsychotic,Inflammation reduction,"Headache, Rash",Mild,Pending
+Cefxetine44,Anti-inflammatory,Fever reduction,"Blurred vision, Nausea",Severe,Pending
+Viraprofen28,Anti-inflammatory,Inflammation reduction,"Dizziness, Rash, Headache",Mild,Rejected
+Mecozole53,Antifungal,Depression treatment,"Constipation, Blurred vision, Rash",Mild,Pending
+Fenoxetine38,Antipsychotic,Allergy relief,"Constipation, Diarrhea, Insomnia",Moderate,Rejected
+Daxovir85,Antipsychotic,Fever reduction,"Headache, Insomnia, Fatigue",Moderate,Pending
+Cefxetine26,Antidepressant,Fever reduction,Headache,Mild,Rejected
+Rivamab71,Antihistamine,Allergy relief,"Headache, Dizziness",Severe,Rejected
+Mecozole44,Antipyretic,Pain relief,"Dizziness, Headache",Severe,Pending
+Daxoprofen37,Antipyretic,Inflammation reduction,"Nausea, Dry mouth, Fatigue",Mild,Rejected
+Serovir68,Antipyretic,Fungal infections,Blurred vision,Mild,Pending
+Zylozole19,Antihistamine,Fever reduction,Diarrhea,Moderate,Pending
+Fenomab78,Anti-inflammatory,Prevent infectious disease,Dizziness,Mild,Pending
+Serozole94,Anti-inflammatory,Fever reduction,Nausea,Moderate,Pending
+Virastatin43,Antipyretic,Depression treatment,Rash,Mild,Pending
+Mecozepam36,Antidepressant,Allergy relief,"Insomnia, Rash",Moderate,Approved
+Viraparin42,Antipyretic,Allergy relief,"Nausea, Dry mouth",Mild,Rejected
+Viraxetine59,Analgesic,Allergy relief,"Blurred vision, Constipation, Headache",Mild,Rejected
+Daxomab14,Analgesic,Psychosis control,"Dry mouth, Dizziness",Moderate,Pending
+Loxoprofen78,Antibiotic,Pain relief,Dizziness,Moderate,Pending
+Serovir62,Antifungal,Psychosis control,"Dizziness, Insomnia",Mild,Pending
+Serovir95,Antihistamine,Pain relief,"Fatigue, Constipation, Nausea",Mild,Rejected
+Viradipine45,Antidepressant,Pain relief,"Dizziness, Nausea",Severe,Pending
+Serodipine38,Vaccine,Allergy relief,"Insomnia, Diarrhea, Dry mouth",Mild,Approved
+Cefxetine24,Antihistamine,Viral infections,Blurred vision,Severe,Approved
+Loxostatin36,Anti-inflammatory,Allergy relief,"Nausea, Insomnia, Headache",Moderate,Rejected
+Amoxcillin12,Antifungal,Psychosis control,"Nausea, Headache",Mild,Approved
+Daxovir35,Antipsychotic,Fungal infections,"Nausea, Diarrhea, Headache",Severe,Rejected
+Amoxparin65,Antipsychotic,Fever reduction,Insomnia,Moderate,Approved
+Mecomab54,Anti-inflammatory,Inflammation reduction,"Constipation, Dry mouth",Mild,Pending
+Rivaprofen17,Antidepressant,Pain relief,Diarrhea,Moderate,Pending
+Cefdipine61,Anti-inflammatory,Fever reduction,"Insomnia, Dizziness, Rash",Mild,Rejected
+Fenozole50,Analgesic,Pain relief,"Dry mouth, Insomnia, Diarrhea",Mild,Pending
+Amoxcillin75,Antipsychotic,Allergy relief,"Rash, Constipation",Mild,Approved
+Cefmab88,Antipsychotic,Prevent infectious disease,"Fatigue, Headache",Severe,Pending
+Loxomab84,Antipsychotic,Pain relief,"Blurred vision, Diarrhea, Dizziness",Moderate,Rejected
+Serostatin22,Antipyretic,Inflammation reduction,"Nausea, Dry mouth",Moderate,Rejected
+Cefvir13,Anti-inflammatory,Viral infections,"Diarrhea, Blurred vision, Rash",Severe,Rejected
+Amoxzepam67,Antibiotic,Psychosis control,"Headache, Constipation",Mild,Rejected
+Serovir23,Antiviral,Fungal infections,"Fatigue, Nausea",Moderate,Rejected
+Cefprofen23,Antiviral,Bacterial infections,"Rash, Dizziness",Severe,Pending
+Mecozole64,Antipyretic,Fever reduction,"Blurred vision, Diarrhea, Rash",Severe,Pending
+Mecostatin50,Antidepressant,Psychosis control,Insomnia,Moderate,Rejected
+Serostatin23,Antipsychotic,Pain relief,"Blurred vision, Diarrhea, Constipation",Moderate,Pending
+Daxovir95,Antihistamine,Pain relief,Rash,Moderate,Pending
+Fenoprofen19,Antipyretic,Prevent infectious disease,"Headache, Blurred vision",Severe,Rejected
+Zyloprofen28,Antihistamine,Prevent infectious disease,Diarrhea,Mild,Rejected
+Zylostatin67,Anti-inflammatory,Pain relief,Insomnia,Severe,Pending
+Mecozole92,Antihistamine,Fungal infections,Dry mouth,Moderate,Rejected
+Amoxvir17,Antihistamine,Fungal infections,"Nausea, Fatigue, Headache",Severe,Rejected
+Zylovir17,Antibiotic,Fever reduction,"Insomnia, Dizziness",Moderate,Rejected
+Mecoprofen32,Antifungal,Bacterial infections,Headache,Severe,Pending
+Fenoprofen58,Antihistamine,Prevent infectious disease,"Nausea, Dry mouth, Dizziness",Severe,Pending
