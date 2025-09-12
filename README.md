@@ -1,4 +1,4 @@
-#🧪Linux-Based ETL Pipeline with PostgreSQL
+# 🧪Linux-Based ETL Pipeline with PostgreSQL
 
 ## 📌 Project Intent
 This project simulates a basic ETL pipeline using Linux shell scripting, Python for data transformation, and PostgreSQL for data storage and analytics. It’s designed to showcase beginner-level data engineering skills.
