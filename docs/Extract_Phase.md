@@ -1,4 +1,4 @@
-# 🔹 Extract Phase – Drug Label ETL Pipeline
+# 🔹Extract Phase – Drug Label ETL Pipeline
 
 This phase initiates the ETL pipeline by downloading and preparing the raw dataset for transformation.
 
