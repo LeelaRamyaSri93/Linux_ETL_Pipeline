@@ -6,7 +6,8 @@ This phase processes the extracted CSV file using Python and pandas to clean, fo
 
 ## 🧠 Transformation Workflow
 
-- Created `transform.py` using `nano`  
+- Created `transform.py` using `nano`
+  
   Script reads `extracted_drugs.csv`, applies cleaning logic, and writes output to `transformed_drugs.csv`
 
 - Created a virtual environment in the root folder to install required libraries like `pandas`:  
