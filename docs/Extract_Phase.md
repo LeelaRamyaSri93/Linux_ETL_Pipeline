@@ -13,23 +13,28 @@ This phase initiates the ETL pipeline by downloading and preparing the raw datas
 
 ## 🛠️ Setup & Download
 
-1. **Created `.kaggle/` folder** to store API token  
+1. **Created `.kaggle/` folder** to store API token
+   
    ```bash
    mkdir -p ~/.kaggle
    chmod 600 ~/.kaggle/kaggle.json
 2. **Installed Kaggle CLI**
+   
    ```bash
    sudo apt update
    sudo apt install python3-pip pipx unzip
    pipx install kaggle
    pipx ensurepath
 3. **Downloaded datasets via Kaggle API**
+   
    ```bash
    kaggle datasets download -d pratyushpuri/drug-labels-and-side-effects-dataset-1400-records
-4. **Unzipped files into `.data/` folder**
+4. **Unzipped files into `data/` folder**
+   
    ```bash
    unzip data/drug-labels-and-side-effects-dataset-1400-records.zip -d data/
 5. **Verified headers of all CSV file**
+   
    ```bash
    head -n 1 data/*.csv
 ---
@@ -44,10 +49,12 @@ This phase initiates the ETL pipeline by downloading and preparing the raw datas
   ```bash
   chmod +x extract.sh
   ./extract.sh
+  
 - Verified extracted file and logs
   ```bash
   head -n 5 data/extracted_drugs.csv
   cat scripts/extract.log
+  
 ---
 
 ## 📄 Output Files
