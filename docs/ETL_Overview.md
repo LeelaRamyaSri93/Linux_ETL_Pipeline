@@ -29,4 +29,4 @@ Each phase is documented separately:
 - [Load Phase](Load_Phase.md)
 
 For visual reference, see:  
-📊 `workflow_diagram.png`
+📊 [workflow_diagram](Linux_ETL_Pipeline_WORKFLOW.png)
