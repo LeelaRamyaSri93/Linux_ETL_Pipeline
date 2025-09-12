@@ -24,7 +24,7 @@ This project demonstrates a beginner friendly ETL pipeline using shell scripting
 ---
 
 Each phase is documented separately:
-- [Extract Phase](extract_phase.md)
+- [Extract Phase](Extract_Phase.md)
 - [Transform Phase](transform_phase.md)
 - [Load Phase](load_phase.md)
 
