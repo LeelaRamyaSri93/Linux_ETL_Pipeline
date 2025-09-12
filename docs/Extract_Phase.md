@@ -26,7 +26,7 @@ This phase initiates the ETL pipeline by downloading and preparing the raw datas
 3. **Downloaded datasets via Kaggle API**
    ```bash
    kaggle datasets download -d pratyushpuri/drug-labels-and-side-effects-dataset-1400-records
-4. ** Unzipped files into `.data/` folder**
+4. **Unzipped files into `.data/` folder**
    ```bash
    unzip data/drug-labels-and-side-effects-dataset-1400-records.zip -d data/
 5. **Verified headers of all CSV file**
