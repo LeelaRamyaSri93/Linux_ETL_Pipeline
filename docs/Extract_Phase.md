@@ -60,8 +60,9 @@ This phase initiates the ETL pipeline by downloading and preparing the raw datas
 ## 📄 Output Files
 | File Name              | Description                          |
 |------------------------|--------------------------------------|
-| `extracted_drugs.csv`  | Cleaned dataset with selected fields |
+| `extract.sh`           | Shell script for extraction workflow |
 | `extract.log`          | Log file capturing script execution  |
+| `extracted_drugs.csv`  | Cleaned dataset with selected fields |
 ---
 
 ## ✅ Status
