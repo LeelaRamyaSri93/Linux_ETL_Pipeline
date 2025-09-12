@@ -1,0 +1,12 @@
+# Ignore log files
+#*.log
+
+# Ignore large datasets or archives
+*.zip
+
+# Ignore temporary or backup files
+*~
+
+venv/
+__pycache__/
+
